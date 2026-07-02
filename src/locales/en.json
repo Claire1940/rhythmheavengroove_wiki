@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Rhythm Heaven Groove Wiki - Minigames, Beatspell & Demo",
+      "description": "Rhythm Heaven Groove Wiki tracks the release date, free demo, 80+ minigames, Beatspell, local multiplayer modes, controls, tips, trailers, and Nintendo Switch updates.",
+      "keywords": "Rhythm Heaven Groove, Nintendo Switch, demo, Beatspell, minigames, multiplayer",
+      "ogTitle": "Rhythm Heaven Groove Wiki - Minigames, Beatspell & Demo",
+      "ogDescription": "Rhythm Heaven Groove Wiki tracks the release date, free demo, 80+ minigames, Beatspell, local multiplayer modes, controls, tips, trailers, and Nintendo Switch updates.",
+      "twitterTitle": "Rhythm Heaven Groove Wiki - Minigames, Beatspell & Demo",
+      "twitterDescription": "Rhythm Heaven Groove Wiki covers release date, demo, minigames, Beatspell, multiplayer, controls, tips, and Nintendo Switch updates."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Quirky Rhythm Minigame Collection",
+    "title": "Rhythm Heaven Groove Wiki",
+    "description": "Rhythm Heaven Groove is Nintendo's rhythm game for Nintendo Switch, featuring 80+ single-player rhythm games, 30+ local multiplayer games, Beatspell, a free demo, trailers, and timing tips.",
+    "getFreeCodesCTA": "View Guides",
+    "playOnSteamCTA": "Play on Nintendo Switch",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "July 2, 2026",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "80+",
+        "label": "Solo Rhythm Games"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "30+",
+        "label": "Multiplayer Games"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Available",
+        "label": "Free Demo"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Play Rhythm Heaven Groove?",
+    "description": "Watch the official Overview Trailer and grab Rhythm Heaven Groove on Nintendo Switch, with a free demo also available.",
+    "joinCommunity": "Watch the Overview Trailer",
+    "joinGame": "Play on Nintendo Switch"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Rhythm Heaven Groove Wiki",
+    "description": "Your complete resource hub for Rhythm Heaven Groove release info, demo, 80+ minigames, Beatspell, multiplayer modes, controls, and timing tips.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "reddit": "Reddit Community",
+    "youtube": "Official Trailer",
+    "nintendoStore": "Nintendo Store",
+    "officialSite": "Official Site",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Rhythm Heaven Groove Wiki. Not affiliated with Nintendo.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
