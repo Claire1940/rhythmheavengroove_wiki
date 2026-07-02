@@ -55,8 +55,12 @@ function main() {
   let total = 0
 
   if (!fs.existsSync(CONTENT_DIR)) {
-    console.error(`[content-manifest] content 目录不存在: ${CONTENT_DIR}`)
-    process.exit(1)
+    // content/ 缺失视为"暂无内容"（多阶段重构中的合法中间态），输出空清单而非崩溃，
+    // 否则 CI 的 Generate content manifest 步骤会 exit 1 导致整条部署流水线失败。
+    console.warn(`[content-manifest] content 目录不存在: ${CONTENT_DIR}，输出空清单 {}`)
+    fs.mkdirSync(OUT_DIR, { recursive: true })
+    fs.writeFileSync(OUT_FILE, '{}\n', 'utf8')
+    return
   }
 
   const locales = fs

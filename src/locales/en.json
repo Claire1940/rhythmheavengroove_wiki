@@ -10,14 +10,7 @@
       "twitterDescription": "Rhythm Heaven Groove Wiki covers release date, demo, minigames, Beatspell, multiplayer, controls, tips, and Nintendo Switch updates."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
