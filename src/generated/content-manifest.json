@@ -1,1 +1,698 @@
-{}
+{
+  "en": {
+    "demo": [
+      {
+        "slug": "rhythm-heaven-groove-demo-reddit",
+        "file": "rhythm-heaven-groove-demo-reddit"
+      },
+      {
+        "slug": "rhythm-heaven-groove-demo",
+        "file": "rhythm-heaven-groove-demo"
+      },
+      {
+        "slug": "rhythm-heaven-groove-full-demo-gameplay",
+        "file": "rhythm-heaven-groove-full-demo-gameplay"
+      },
+      {
+        "slug": "rhythm-heaven-groove-starter-demo",
+        "file": "rhythm-heaven-groove-starter-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rhythm-heaven-groove-beginner-guide",
+        "file": "rhythm-heaven-groove-beginner-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-guide",
+        "file": "rhythm-heaven-groove-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-how-many-games",
+        "file": "rhythm-heaven-groove-how-many-games"
+      },
+      {
+        "slug": "rhythm-heaven-groove-minigames",
+        "file": "rhythm-heaven-groove-minigames"
+      },
+      {
+        "slug": "rhythm-heaven-groove-rating-system",
+        "file": "rhythm-heaven-groove-rating-system"
+      },
+      {
+        "slug": "rhythm-heaven-groove-walkthrough",
+        "file": "rhythm-heaven-groove-walkthrough"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "rhythm-heaven-groove-pc",
+        "file": "rhythm-heaven-groove-pc"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-1",
+        "file": "rhythm-heaven-groove-switch-1"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-edition",
+        "file": "rhythm-heaven-groove-switch-2-edition"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-physical",
+        "file": "rhythm-heaven-groove-switch-2-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-release-date",
+        "file": "rhythm-heaven-groove-switch-2-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2",
+        "file": "rhythm-heaven-groove-switch-2"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-lite",
+        "file": "rhythm-heaven-groove-switch-lite"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch",
+        "file": "rhythm-heaven-groove-switch"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "rhythm-heaven-groove-amazon",
+        "file": "rhythm-heaven-groove-amazon"
+      },
+      {
+        "slug": "rhythm-heaven-groove-best-buy",
+        "file": "rhythm-heaven-groove-best-buy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-gamestop",
+        "file": "rhythm-heaven-groove-gamestop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-nintendo-eshop",
+        "file": "rhythm-heaven-groove-nintendo-eshop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical-copy",
+        "file": "rhythm-heaven-groove-physical-copy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical",
+        "file": "rhythm-heaven-groove-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order-bonus",
+        "file": "rhythm-heaven-groove-pre-order-bonus"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order",
+        "file": "rhythm-heaven-groove-pre-order"
+      },
+      {
+        "slug": "rhythm-heaven-groove-price",
+        "file": "rhythm-heaven-groove-price"
+      },
+      {
+        "slug": "rhythm-heaven-groove-target",
+        "file": "rhythm-heaven-groove-target"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rhythm-heaven-groove-countdown",
+        "file": "rhythm-heaven-groove-countdown"
+      },
+      {
+        "slug": "rhythm-heaven-groove-initial-release-date",
+        "file": "rhythm-heaven-groove-initial-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-launch-date",
+        "file": "rhythm-heaven-groove-launch-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date-2026",
+        "file": "rhythm-heaven-groove-release-date-2026"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date",
+        "file": "rhythm-heaven-groove-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-time",
+        "file": "rhythm-heaven-groove-release-time"
+      }
+    ],
+    "review": [
+      {
+        "slug": "rhythm-heaven-groove-comparison",
+        "file": "rhythm-heaven-groove-comparison"
+      },
+      {
+        "slug": "rhythm-heaven-groove-metacritic",
+        "file": "rhythm-heaven-groove-metacritic"
+      },
+      {
+        "slug": "rhythm-heaven-groove-review",
+        "file": "rhythm-heaven-groove-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-review",
+        "file": "rhythm-heaven-groove-switch-2-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-review",
+        "file": "rhythm-heaven-groove-switch-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-worth-it",
+        "file": "rhythm-heaven-groove-worth-it"
+      }
+    ]
+  },
+  "es": {
+    "demo": [
+      {
+        "slug": "rhythm-heaven-groove-demo-reddit",
+        "file": "rhythm-heaven-groove-demo-reddit"
+      },
+      {
+        "slug": "rhythm-heaven-groove-demo",
+        "file": "rhythm-heaven-groove-demo"
+      },
+      {
+        "slug": "rhythm-heaven-groove-full-demo-gameplay",
+        "file": "rhythm-heaven-groove-full-demo-gameplay"
+      },
+      {
+        "slug": "rhythm-heaven-groove-starter-demo",
+        "file": "rhythm-heaven-groove-starter-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rhythm-heaven-groove-beginner-guide",
+        "file": "rhythm-heaven-groove-beginner-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-guide",
+        "file": "rhythm-heaven-groove-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-how-many-games",
+        "file": "rhythm-heaven-groove-how-many-games"
+      },
+      {
+        "slug": "rhythm-heaven-groove-minigames",
+        "file": "rhythm-heaven-groove-minigames"
+      },
+      {
+        "slug": "rhythm-heaven-groove-rating-system",
+        "file": "rhythm-heaven-groove-rating-system"
+      },
+      {
+        "slug": "rhythm-heaven-groove-walkthrough",
+        "file": "rhythm-heaven-groove-walkthrough"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "rhythm-heaven-groove-pc",
+        "file": "rhythm-heaven-groove-pc"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-1",
+        "file": "rhythm-heaven-groove-switch-1"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-edition",
+        "file": "rhythm-heaven-groove-switch-2-edition"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-physical",
+        "file": "rhythm-heaven-groove-switch-2-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-release-date",
+        "file": "rhythm-heaven-groove-switch-2-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2",
+        "file": "rhythm-heaven-groove-switch-2"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-lite",
+        "file": "rhythm-heaven-groove-switch-lite"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch",
+        "file": "rhythm-heaven-groove-switch"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "rhythm-heaven-groove-amazon",
+        "file": "rhythm-heaven-groove-amazon"
+      },
+      {
+        "slug": "rhythm-heaven-groove-best-buy",
+        "file": "rhythm-heaven-groove-best-buy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-gamestop",
+        "file": "rhythm-heaven-groove-gamestop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-nintendo-eshop",
+        "file": "rhythm-heaven-groove-nintendo-eshop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical-copy",
+        "file": "rhythm-heaven-groove-physical-copy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical",
+        "file": "rhythm-heaven-groove-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order-bonus",
+        "file": "rhythm-heaven-groove-pre-order-bonus"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order",
+        "file": "rhythm-heaven-groove-pre-order"
+      },
+      {
+        "slug": "rhythm-heaven-groove-price",
+        "file": "rhythm-heaven-groove-price"
+      },
+      {
+        "slug": "rhythm-heaven-groove-target",
+        "file": "rhythm-heaven-groove-target"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rhythm-heaven-groove-countdown",
+        "file": "rhythm-heaven-groove-countdown"
+      },
+      {
+        "slug": "rhythm-heaven-groove-initial-release-date",
+        "file": "rhythm-heaven-groove-initial-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-launch-date",
+        "file": "rhythm-heaven-groove-launch-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date-2026",
+        "file": "rhythm-heaven-groove-release-date-2026"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date",
+        "file": "rhythm-heaven-groove-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-time",
+        "file": "rhythm-heaven-groove-release-time"
+      }
+    ],
+    "review": [
+      {
+        "slug": "rhythm-heaven-groove-comparison",
+        "file": "rhythm-heaven-groove-comparison"
+      },
+      {
+        "slug": "rhythm-heaven-groove-metacritic",
+        "file": "rhythm-heaven-groove-metacritic"
+      },
+      {
+        "slug": "rhythm-heaven-groove-review",
+        "file": "rhythm-heaven-groove-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-review",
+        "file": "rhythm-heaven-groove-switch-2-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-review",
+        "file": "rhythm-heaven-groove-switch-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-worth-it",
+        "file": "rhythm-heaven-groove-worth-it"
+      }
+    ]
+  },
+  "ja": {
+    "demo": [
+      {
+        "slug": "rhythm-heaven-groove-demo-reddit",
+        "file": "rhythm-heaven-groove-demo-reddit"
+      },
+      {
+        "slug": "rhythm-heaven-groove-demo",
+        "file": "rhythm-heaven-groove-demo"
+      },
+      {
+        "slug": "rhythm-heaven-groove-full-demo-gameplay",
+        "file": "rhythm-heaven-groove-full-demo-gameplay"
+      },
+      {
+        "slug": "rhythm-heaven-groove-starter-demo",
+        "file": "rhythm-heaven-groove-starter-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rhythm-heaven-groove-beginner-guide",
+        "file": "rhythm-heaven-groove-beginner-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-guide",
+        "file": "rhythm-heaven-groove-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-how-many-games",
+        "file": "rhythm-heaven-groove-how-many-games"
+      },
+      {
+        "slug": "rhythm-heaven-groove-minigames",
+        "file": "rhythm-heaven-groove-minigames"
+      },
+      {
+        "slug": "rhythm-heaven-groove-rating-system",
+        "file": "rhythm-heaven-groove-rating-system"
+      },
+      {
+        "slug": "rhythm-heaven-groove-walkthrough",
+        "file": "rhythm-heaven-groove-walkthrough"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "rhythm-heaven-groove-pc",
+        "file": "rhythm-heaven-groove-pc"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-1",
+        "file": "rhythm-heaven-groove-switch-1"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-edition",
+        "file": "rhythm-heaven-groove-switch-2-edition"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-physical",
+        "file": "rhythm-heaven-groove-switch-2-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-release-date",
+        "file": "rhythm-heaven-groove-switch-2-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2",
+        "file": "rhythm-heaven-groove-switch-2"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-lite",
+        "file": "rhythm-heaven-groove-switch-lite"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch",
+        "file": "rhythm-heaven-groove-switch"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "rhythm-heaven-groove-amazon",
+        "file": "rhythm-heaven-groove-amazon"
+      },
+      {
+        "slug": "rhythm-heaven-groove-best-buy",
+        "file": "rhythm-heaven-groove-best-buy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-gamestop",
+        "file": "rhythm-heaven-groove-gamestop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-nintendo-eshop",
+        "file": "rhythm-heaven-groove-nintendo-eshop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical-copy",
+        "file": "rhythm-heaven-groove-physical-copy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical",
+        "file": "rhythm-heaven-groove-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order-bonus",
+        "file": "rhythm-heaven-groove-pre-order-bonus"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order",
+        "file": "rhythm-heaven-groove-pre-order"
+      },
+      {
+        "slug": "rhythm-heaven-groove-price",
+        "file": "rhythm-heaven-groove-price"
+      },
+      {
+        "slug": "rhythm-heaven-groove-target",
+        "file": "rhythm-heaven-groove-target"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rhythm-heaven-groove-countdown",
+        "file": "rhythm-heaven-groove-countdown"
+      },
+      {
+        "slug": "rhythm-heaven-groove-initial-release-date",
+        "file": "rhythm-heaven-groove-initial-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-launch-date",
+        "file": "rhythm-heaven-groove-launch-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date-2026",
+        "file": "rhythm-heaven-groove-release-date-2026"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date",
+        "file": "rhythm-heaven-groove-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-time",
+        "file": "rhythm-heaven-groove-release-time"
+      }
+    ],
+    "review": [
+      {
+        "slug": "rhythm-heaven-groove-comparison",
+        "file": "rhythm-heaven-groove-comparison"
+      },
+      {
+        "slug": "rhythm-heaven-groove-metacritic",
+        "file": "rhythm-heaven-groove-metacritic"
+      },
+      {
+        "slug": "rhythm-heaven-groove-review",
+        "file": "rhythm-heaven-groove-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-review",
+        "file": "rhythm-heaven-groove-switch-2-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-review",
+        "file": "rhythm-heaven-groove-switch-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-worth-it",
+        "file": "rhythm-heaven-groove-worth-it"
+      }
+    ]
+  },
+  "ko": {
+    "demo": [
+      {
+        "slug": "rhythm-heaven-groove-demo-reddit",
+        "file": "rhythm-heaven-groove-demo-reddit"
+      },
+      {
+        "slug": "rhythm-heaven-groove-demo",
+        "file": "rhythm-heaven-groove-demo"
+      },
+      {
+        "slug": "rhythm-heaven-groove-full-demo-gameplay",
+        "file": "rhythm-heaven-groove-full-demo-gameplay"
+      },
+      {
+        "slug": "rhythm-heaven-groove-starter-demo",
+        "file": "rhythm-heaven-groove-starter-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rhythm-heaven-groove-beginner-guide",
+        "file": "rhythm-heaven-groove-beginner-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-guide",
+        "file": "rhythm-heaven-groove-guide"
+      },
+      {
+        "slug": "rhythm-heaven-groove-how-many-games",
+        "file": "rhythm-heaven-groove-how-many-games"
+      },
+      {
+        "slug": "rhythm-heaven-groove-minigames",
+        "file": "rhythm-heaven-groove-minigames"
+      },
+      {
+        "slug": "rhythm-heaven-groove-rating-system",
+        "file": "rhythm-heaven-groove-rating-system"
+      },
+      {
+        "slug": "rhythm-heaven-groove-walkthrough",
+        "file": "rhythm-heaven-groove-walkthrough"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "rhythm-heaven-groove-pc",
+        "file": "rhythm-heaven-groove-pc"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-1",
+        "file": "rhythm-heaven-groove-switch-1"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-edition",
+        "file": "rhythm-heaven-groove-switch-2-edition"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-physical",
+        "file": "rhythm-heaven-groove-switch-2-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-release-date",
+        "file": "rhythm-heaven-groove-switch-2-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2",
+        "file": "rhythm-heaven-groove-switch-2"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-lite",
+        "file": "rhythm-heaven-groove-switch-lite"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch",
+        "file": "rhythm-heaven-groove-switch"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "rhythm-heaven-groove-amazon",
+        "file": "rhythm-heaven-groove-amazon"
+      },
+      {
+        "slug": "rhythm-heaven-groove-best-buy",
+        "file": "rhythm-heaven-groove-best-buy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-gamestop",
+        "file": "rhythm-heaven-groove-gamestop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-nintendo-eshop",
+        "file": "rhythm-heaven-groove-nintendo-eshop"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical-copy",
+        "file": "rhythm-heaven-groove-physical-copy"
+      },
+      {
+        "slug": "rhythm-heaven-groove-physical",
+        "file": "rhythm-heaven-groove-physical"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order-bonus",
+        "file": "rhythm-heaven-groove-pre-order-bonus"
+      },
+      {
+        "slug": "rhythm-heaven-groove-pre-order",
+        "file": "rhythm-heaven-groove-pre-order"
+      },
+      {
+        "slug": "rhythm-heaven-groove-price",
+        "file": "rhythm-heaven-groove-price"
+      },
+      {
+        "slug": "rhythm-heaven-groove-target",
+        "file": "rhythm-heaven-groove-target"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rhythm-heaven-groove-countdown",
+        "file": "rhythm-heaven-groove-countdown"
+      },
+      {
+        "slug": "rhythm-heaven-groove-initial-release-date",
+        "file": "rhythm-heaven-groove-initial-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-launch-date",
+        "file": "rhythm-heaven-groove-launch-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date-2026",
+        "file": "rhythm-heaven-groove-release-date-2026"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-date",
+        "file": "rhythm-heaven-groove-release-date"
+      },
+      {
+        "slug": "rhythm-heaven-groove-release-time",
+        "file": "rhythm-heaven-groove-release-time"
+      }
+    ],
+    "review": [
+      {
+        "slug": "rhythm-heaven-groove-comparison",
+        "file": "rhythm-heaven-groove-comparison"
+      },
+      {
+        "slug": "rhythm-heaven-groove-metacritic",
+        "file": "rhythm-heaven-groove-metacritic"
+      },
+      {
+        "slug": "rhythm-heaven-groove-review",
+        "file": "rhythm-heaven-groove-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-2-review",
+        "file": "rhythm-heaven-groove-switch-2-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-switch-review",
+        "file": "rhythm-heaven-groove-switch-review"
+      },
+      {
+        "slug": "rhythm-heaven-groove-worth-it",
+        "file": "rhythm-heaven-groove-worth-it"
+      }
+    ]
+  }
+}

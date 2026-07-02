@@ -1,0 +1,141 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Rhythm Heaven Groove Walkthrough: Stage Guide & RPG Tips",
+  description: "Master every beat in Rhythm Heaven Groove. Get the full walkthrough for Stage 1, Beatspell RPG mode, multiplayer challenges, and calibration tips.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/f6c431/171717?text=Rhythm+Heaven+Groove+Walkthrough",
+  date: "2026-07-02",
+  author: "rhythm heaven groove Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary Walkthrough**: Learn how to earn Gold Medals on Stage 1 using the official *rhythm heaven groove walkthrough* strategies.
+- **Anti-Frustration Tool**: Hold the **Y Button** during any minigame practice to watch a perfect timing demonstration.
+- **RPG Combat Progression**: Progress through the main campaign to unlock **Beatspell**, a story-driven rhythm battle mode.
+- **Critical Control Check**: Use the in-game calibration settings to eliminate input lag before playing on a TV.
+</Callout>
+
+<Section icon={Map} title="Rhythm Heaven Groove Walkthrough: Stage 1 Gold Medal Guide">
+
+Achieving an "Amazing!" rank and securing Gold Medals in the early stages of *rhythm heaven groove walkthrough* requires a deep understanding of audio cues rather than visual reflexes. Stage 1 serves as the perfect training ground to build this muscle memory.
+
+**Video Highlights:**
+- **Stage 1 Warm-up**: Learning the fundamental jump mechanics in Hoop Trundling.
+- **Visual Distraction Management**: How to handle camera shifts in Brolly Good Show and Disc Dog.
+- **Remix 1 Mastery**: Putting all Stage 1 mechanics together for a seamless final performance.
+
+<YouTubeEmbed videoId="ZdMwqKiSeEE" title="Rhythm Heaven Groove – Overview Trailer – Nintendo Switch" />
+
+To secure your first set of Gold Medals, focus on the specific button timings and vocal prompts outlined in the table below:
+
+| Stage 1 Level | Primary Control | Key Vocal Cues | Visual Gimmick / Hazard | Medal Strategy |
+|---|---|---|---|---|
+| **Hoop Trundling** | Press **A** to Jump | *Pa-pi-pu-pe-po* | Spotlight dims the background | Ignore the spotlight; press **A** exactly on the final beat. |
+| **Brolly Good Show** | **A** (Open) / **Down** (Close) | *Flap-flap* / *Paw-cho* | Heavy rain animations | Open on *Paw* and close on *Cho* based on your line position. |
+| **Disc Dog** | Press **A** to Catch | None (Bark sounds) | Camera zooms in on the trainer | Listen to the throw timing; don't watch the dog's position. |
+| **Remix 1** | Dynamic switching | Combined cues | Fast-paced transitions | Watch for prompt switches and maintain the baseline tempo. |
+
+<Callout type="tip" title="Pro Timing Tip">
+If you are struggling with a specific tempo change, press the **Minus (-) Button** during practice to slow the speed down. While you won't earn points during slowed practice, it is the best way to memorize tricky syncopated beats.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Beatspell Mode: Rhythm RPG Battle Walkthrough">
+
+Unlocking the **Beatspell Mode** introduces a brand-new way to play by wrapping classic timing tests inside a fantasy RPG progression loop. Instead of simply clearing minigames, your rhythm directly translates into defensive spells, healing arts, and elemental attacks.
+
+<CardGrid cols={3}>
+  <Card title="1. Unlock the Campaign">
+    Progress through the main solo campaign levels. Earning **Gold Medals** and **Rings** in standard levels unlocks new story chapters in the Beatspell cave.
+  </Card>
+  <Card title="2. Match Input Icons">
+    Watch the on-screen **A** and **B** action prompts. You must press these buttons in perfect rhythm with the battle music to successfully cast spells.
+  </Card>
+  <Card title="3. Execute Elements">
+    Chain successful inputs together to cast advanced spells like **Flame**. Missing a beat leaves you vulnerable to enemy counter-attacks.
+  </Card>
+</CardGrid>
+
+Use the following reference chart to plan your combat spells during encounters:
+
+| Spell Type | Input Sequence | Primary Function | Best Used Against |
+|---|---|---|---|
+| **Flame** | **B** then **A** on beat | High single-target damage | Bosses and high-HP scarecrows |
+| **Shield** | Hold **B** | Negates incoming damage | Enemies charging up powerful attacks |
+| **Heal** | Alternating **A** and **B** | Restores character HP | Long battles with multiple waves |
+
+<Callout type="warning" title="Battle Warning">
+Unlike normal minigames where a miss simply lowers your score, failing inputs in Beatspell allows monsters to damage your health bar, leading to an immediate game over if your HP reaches zero.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step Beginner Calibration Guide">
+
+Because this game relies on millisecond-precise inputs, display latency can completely ruin your experience. Before diving deep into the campaign, follow these calibration steps to optimize your audio and visual sync.
+
+<Steps>
+  <Step num="1" title="Access Settings">
+    Navigate to the main menu and select the **Rhythm Toybox Cafe**. Speak with the Barista to open the TV Input Delay utility.
+  </Step>
+  <Step num="2" title="Perform the Tap Test">
+    Follow the on-screen audio prompts. Press the **A Button** exactly when you hear the beep to measure your TV's latency.
+  </Step>
+  <Step num="3" title="Apply the Offset">
+    The game will automatically calculate your latency offset. Save these changes to apply them globally across all single-player and multiplayer modes.
+  </Step>
+  <Step num="4" title="Verify in Handheld Mode">
+    If you continue to experience lag, switch to **Handheld Mode**. Handheld play bypasses TV processing, providing near-zero input latency.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Campaign Checklist & Milestones">
+
+Keep track of your progression through the main campaign and side modes with this completion checklist.
+
+<Checklist
+  id="groove-milestones"
+  title="Campaign Completion Goals:"
+  items={.",
+    "Earn an 'Amazing!' rank on all Stage 1 levels to claim your Gold Medals.",
+    "Unlock the Beatspell RPG campaign and clear the first Cave chapter.",
+    "Gather friends and clear 10 local cooperative multiplayer challenges.",
+    "Complete a full 100% walkthrough of the main campaign and unlock all 20 Remixes."
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How do I unlock Beatspell Mode in the main game?",
+    answer: "Beatspell is unlocked naturally as you progress through the main campaign. Earning Medals and Rings from standard solo levels opens up new chapters in this RPG side mode."
+  },
+  {
+    question: "What is the best way to practice difficult levels in Rhythm Heaven Groove?",
+    answer: "During any minigame practice, you can hold down the Y Button to watch a perfect demonstration. You can also press the Minus (-) Button to slow down the tempo and learn the pattern at a comfortable pace."
+  },
+  {
+    question: "Why do my inputs feel slightly off when playing on a TV?",
+    answer: "This is usually caused by TV input lag. Go to the Cafe settings menu to run the calibration tool, or switch to Handheld Mode to eliminate display latency completely."
+  },
+  {
+    question: "Does the game support online multiplayer matchmaking?",
+    answer: "No. The game features over 30 multiplayer games, but they are strictly designed for local play (1-4 players) on a single Nintendo Switch system."
+  }
+]} />
+
+</Section>

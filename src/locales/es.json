@@ -1,1 +1,10 @@
-{}
+{
+  "nav": {
+    "release": "Lanzamiento",
+    "platforms": "Plataformas",
+    "demo": "Demo",
+    "purchase": "Compra",
+    "review": "Reseñas",
+    "guide": "Guía"
+  }
+}

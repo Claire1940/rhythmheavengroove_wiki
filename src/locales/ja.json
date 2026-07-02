@@ -1,1 +1,10 @@
-{}
+{
+  "nav": {
+    "release": "リリース",
+    "platforms": "プラットフォーム",
+    "demo": "デモ",
+    "purchase": "購入",
+    "review": "レビュー",
+    "guide": "ガイド"
+  }
+}

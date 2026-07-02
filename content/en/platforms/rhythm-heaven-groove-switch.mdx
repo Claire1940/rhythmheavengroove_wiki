@@ -1,0 +1,149 @@
+import { Map, Swords, Trophy, Target, Sparkles, Settings } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Rhythm Heaven Groove: Beginner Guide & Gameplay Tips",
+  description: "Master Rhythm Heaven Groove with our expert guide covering minigames, Beatspell mode, multiplayer tips, and demo walkthroughs for Nintendo Switch.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/f59e0b/fff?text=Rhythm+Heaven+Groove+Guide",
+  date: "2026-07-02",
+  author: "rhythm heaven groove Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Rhythm Heaven Groove** is the definitive rhythm collection featuring over 80 solo and 30 multiplayer games.
+- **Master the timing** by listening to audio cues rather than relying solely on visual animations.
+- **Beatspell mode** offers a unique rhythm-based RPG experience unlocked through main game progression.
+- **Download the free demo** to practice core mechanics and transfer your progress to the full game.
+- **Local multiplayer** supports up to four players on a single Nintendo Switch system.
+</Callout>
+
+<Section icon={Map} title="Release and Platform Details">
+
+Rhythm Heaven Groove launches for Nintendo Switch on July 2, 2026. This title brings the classic rhythm-action formula to current hardware with full compatibility for the Nintendo Switch 2.
+
+**Video Highlights:**
+- Official reveal of the 80+ solo rhythm game lineup.
+- Showcase of the innovative Beatspell RPG battle system.
+- Demonstration of local multiplayer party modes.
+
+<YouTubeEmbed videoId="ZdMwqKiSeEE" title="Rhythm Heaven Groove – Overview Trailer" />
+
+| Feature | Details |
+| :--- | :--- |
+| **Release Date** | **July 2, 2026** |
+| **Platform** | **Nintendo Switch** (Switch 2 compatible) |
+| **Price** | **$39.99** |
+| **Players** | **1-4 Local Players** |
+| **File Size** | **3.5 GB** |
+
+<Callout type="tip" title="Pro Tip">
+Always check your display calibration in the settings menu if you experience input lag while playing on a TV, as rhythm games require millisecond-perfect timing.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Getting Started with the Demo">
+
+The starter demo serves as the perfect entry point. It allows you to test the core rhythm mechanics, including button timing and audio-visual synchronization, without committing to the full purchase.
+
+<Steps>
+  <Step num="1" title="Access the eShop">
+    Navigate to the Nintendo eShop on your console and search for the game title.
+  </Step>
+  <Step num="2" title="Download Demo">
+    Select the free Starter Demo to begin your download of the initial content.
+  </Step>
+  <Step num="3" title="Practice Basics">
+    Complete the first five solo rhythm games to understand the game's unique cue system.
+  </Step>
+  <Step num="4" title="Transfer Data">
+    Rest assured that your progress in the demo carries over to the full version of the game.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Demo Content">
+The demo includes specific challenges like Hoop Trundling and the multiplayer Rhythm Tweezers, providing a representative slice of the final experience.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Minigames and Beatspell Mode">
+
+The game is divided into traditional rhythm challenges and the experimental Beatspell mode. Understanding the distinction is key to progressing efficiently.
+
+<CardGrid cols={2}>
+  <Card title="Solo Rhythm Games">
+    - **80+ unique challenges**
+    - Focus on pattern recognition
+    - Unlockable medals and rewards
+  </Card>
+  <Card title="Beatspell Mode">
+    - **RPG-style combat**
+    - Rhythm-based spellcasting
+    - Story-driven progression
+  </Card>
+</CardGrid>
+
+| Mode | Objective | Skill Required |
+| :--- | :--- | :--- |
+| **Solo Games** | Clear stages with high ranks | **Rhythm Timing** |
+| **Beatspell** | Cast spells to defeat monsters | **Tactical Timing** |
+| **Multiplayer** | Cooperative or competitive play | **Communication** |
+
+<Callout type="info" title="Beatspell Progression">
+You unlock Beatspell chapters by earning medals in standard solo rhythm games. This creates a rewarding loop between the two gameplay styles.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Multiplayer and Controls">
+
+Rhythm Heaven Groove supports up to four players locally. This makes it an essential party game for any gathering, provided you have enough compatible controllers.
+
+| Controller Requirement | Supported Modes |
+| :--- | :--- |
+| **1 Controller per Player** | TV, Tabletop, Handheld |
+| **Joy-Con / Pro Controller** | Compatible with all modes |
+
+<Checklist
+  id="multiplayer-checklist"
+  title="Multiplayer Essentials:"
+  items={[
+    "Ensure all controllers are charged",
+    "Select co-op for shared victory challenges",
+    "Choose competitive mode for high-score battles",
+    "Calibrate each controller if needed"
+  ]}
+/>
+
+<Callout type="warning" title="Important Notice">
+The game does not support online multiplayer or local wireless communication between multiple consoles. All multiplayer action occurs on a single system.
+</Callout>
+
+</Section>
+
+<Section icon={Settings} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Is Rhythm Heaven Groove compatible with Nintendo Switch 2?",
+    answer: "Yes, the game is fully compatible with Nintendo Switch 2, maintaining consistent performance and gameplay behavior."
+  },
+  {
+    question: "Should I focus on the screen or the music?",
+    answer: "Always prioritize listening to the beat and audio cues. Visuals can sometimes act as distractions or timing traps."
+  },
+  {
+    question: "How do I unlock new chapters in Beatspell?",
+    answer: "You must earn medals by clearing standard rhythm games; these medals act as keys to unlock new RPG battle chapters."
+  }
+]} />
+
+</Section>

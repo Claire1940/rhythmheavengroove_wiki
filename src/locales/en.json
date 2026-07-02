@@ -10,7 +10,14 @@
       "twitterDescription": "Rhythm Heaven Groove Wiki covers release date, demo, minigames, Beatspell, multiplayer, controls, tips, and Nintendo Switch updates."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "platforms": "Platforms",
+    "demo": "Demo",
+    "purchase": "Purchase",
+    "review": "Review",
+    "guide": "Guide"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -532,118 +539,125 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Rhythm Heaven Groove Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced timing, Beatspell, and multiplayer strategies.",
-      "metaTitle": "Rhythm Heaven Groove Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Rhythm Heaven Groove guides covering beginner tips, timing, Beatspell, multiplayer strategies, and expert tactics for mastering the rhythm game.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, timing strategies, and the Beatspell rhythm RPG mode. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Rhythm Heaven Groove Release Date & Launch Info",
+      "description": "The official release date, regional launch times, and countdown for Rhythm Heaven Groove on Nintendo Switch.",
+      "metaTitle": "Rhythm Heaven Groove Release Date - Launch Date & Countdown",
+      "metaDescription": "Rhythm Heaven Groove launches on Nintendo Switch on July 2, 2026. Track the official release date, launch time, and countdown here.",
+      "categoryLabel": "RELEASE DATE",
+      "whatIs": "What is the Rhythm Heaven Groove Release Date?",
+      "whatIsDescription": "The release section covers the official launch date, regional release times, and the countdown for Rhythm Heaven Groove on Nintendo Switch and Nintendo Switch 2.",
+      "why": "Why track the release date?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand timing, audio cues, and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step3Title": "Master Strategies"
+        "step1Title": "Confirmed Launch Date",
+        "step1Description": "Nintendo lists July 2, 2026 as the official release date for Rhythm Heaven Groove.",
+        "step2Title": "Regional Release Times",
+        "step2Description": "Check launch times across Nintendo's regional eShop stores.",
+        "step3Title": "Countdown to Launch",
+        "step3Description": "Plan your download and first play session with the release countdown."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Release Date Articles"
     },
-    "crafting": {
-      "title": "Rhythm Heaven Groove Beatspell",
-      "description": "Master the Beatspell rhythm RPG mode with spellcasting mechanics, unlock paths, and battle strategies.",
-      "metaTitle": "Rhythm Heaven Groove Beatspell - Spells & Battle Guide",
-      "metaDescription": "Master Rhythm Heaven Groove Beatspell mode. Learn spellcasting mechanics, unlock conditions, and strategies for rhythm-based monster battles.",
-      "categoryLabel": "BEATSPELL MODE",
-      "whatIs": "What is Beatspell?",
-      "whatIsDescription": "Beatspell is an unlockable single-player rhythm RPG mode where button timing becomes spellcasting, healing, and combat against monsters.",
-      "why": "Why learn Beatspell?",
+    "platforms": {
+      "title": "Rhythm Heaven Groove Platforms & Switch 2 Compatibility",
+      "description": "Every platform Rhythm Heaven Groove runs on, including Switch, Switch 2, editions, Switch Lite, and PC availability.",
+      "metaTitle": "Rhythm Heaven Groove Platforms - Switch, Switch 2 & PC",
+      "metaDescription": "Rhythm Heaven Groove is on Nintendo Switch with confirmed Switch 2 compatibility. Compare editions, Switch Lite support, and PC availability.",
+      "categoryLabel": "PLATFORMS",
+      "whatIs": "What Platforms is Rhythm Heaven Groove On?",
+      "whatIsDescription": "The platforms section covers every console Rhythm Heaven Groove runs on, including Nintendo Switch, Nintendo Switch 2 compatibility, editions, Switch Lite, and PC availability.",
+      "why": "Why check the platforms list?",
       "whySteps": {
-        "step1Title": "Unlock the Mode",
-        "step1Description": "Progress through the main game to open Beatspell chapters",
-        "step2Title": "Master Spells",
-        "step2Description": "Learn attack, healing, and support rhythms",
-        "step3Title": "Beat Monsters"
+        "step1Title": "Nintendo Switch & Switch 2",
+        "step1Description": "Play on Nintendo Switch with confirmed Nintendo Switch 2 compatibility.",
+        "step2Title": "Editions & Physical",
+        "step2Description": "Compare digital, physical, and Nintendo Switch 2 editions.",
+        "step3Title": "Switch Lite & PC",
+        "step3Description": "Check Nintendo Switch Lite play experience and whether a PC version exists."
       },
       "featured": "Featured & Essential",
-      "all": "All Beatspell Guides"
+      "all": "All Platforms Articles"
     },
-    "items": {
-      "title": "Rhythm Heaven Groove Minigames",
-      "description": "Detailed minigame guides covering solo rhythm games, multiplayer challenges, timing tips, and scoring strategies.",
-      "metaTitle": "Rhythm Heaven Groove Minigames - Solo & Multiplayer Guide",
-      "metaDescription": "Complete minigame database for Rhythm Heaven Groove including solo rhythm games, multiplayer challenges, timing tips, and scoring strategies.",
-      "categoryLabel": "MINIGAMES",
-      "whatIs": "What are Minigames?",
-      "whatIsDescription": "Comprehensive guides for the 80+ solo rhythm games and 30+ multiplayer challenges, including timing tips and scoring strategies.",
-      "why": "Why check minigame guides?",
-      "whySteps": {
-        "step1Title": "Learn Timing",
-        "step1Description": "Master beat, cue, and tempo patterns for each game",
-        "step2Title": "Improve Scores",
-        "step2Description": "Build consistency with practice routines",
-        "step3Title": "Unlock Content"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Minigames"
-    },
-    "biomes": {
-      "title": "Rhythm Heaven Groove Multiplayer",
-      "description": "Explore local multiplayer modes, 1-4 player setup, co-op and competitive rhythm games, and controller tips.",
-      "metaTitle": "Rhythm Heaven Groove Multiplayer - Local Co-op & Competitive",
-      "metaDescription": "Explore Rhythm Heaven Groove multiplayer including 1-4 player local setup, co-op and competitive rhythm games, and controller configuration tips.",
-      "categoryLabel": "MULTIPLAYER",
-      "whatIs": "What is Multiplayer?",
-      "whatIsDescription": "Guides to local multiplayer modes, single-system 1-4 player setup, and the co-op and competitive rhythm game lineup.",
-      "why": "Why play multiplayer?",
-      "whySteps": {
-        "step1Title": "Party Play",
-        "step1Description": "Gather up to four players on one system",
-        "step2Title": "Co-op Challenges",
-        "step2Description": "Work together on shared rhythm goals",
-        "step3Title": "Compete"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Multiplayer Guides"
-    },
-    "building": {
-      "title": "Rhythm Heaven Groove Demo",
-      "description": "Master the free Starter Demo, progress transfer, and the best practice order for new players.",
-      "metaTitle": "Rhythm Heaven Groove Demo - Free Starter Demo Guide",
-      "metaDescription": "Master the Rhythm Heaven Groove free Starter Demo with download steps, contents, progress transfer, and beginner practice order.",
+    "demo": {
+      "title": "Rhythm Heaven Groove Demo & Starter Demo Guide",
+      "description": "Download the free Starter Demo, explore its contents, transfer progress, and watch full demo gameplay.",
+      "metaTitle": "Rhythm Heaven Groove Demo - Free Starter Demo Download",
+      "metaDescription": "Get the free Rhythm Heaven Groove Starter Demo on Nintendo eShop. Contents, progress transfer, and full demo gameplay inside.",
       "categoryLabel": "FREE DEMO",
-      "whatIs": "What is the Demo?",
-      "whatIsDescription": "Guides to the free Starter Demo, including download steps, included solo and multiplayer content, and progress transfer to the full game.",
+      "whatIs": "What is the Rhythm Heaven Groove Demo?",
+      "whatIsDescription": "The demo section covers the free Starter Demo, its included solo and multiplayer games, progress transfer to the full game, and full demo gameplay.",
       "why": "Why try the demo?",
       "whySteps": {
         "step1Title": "Try Before You Buy",
-        "step1Description": "Practice the first five solo rhythm games free",
+        "step1Description": "Play the first five solo rhythm games for free.",
         "step2Title": "Test Multiplayer",
-        "step2Description": "Try the multiplayer tweezer challenge",
-        "step3Title": "Keep Progress"
+        "step2Description": "Try the multiplayer tweezer challenge with friends.",
+        "step3Title": "Keep Your Progress",
+        "step3Description": "Transfer your demo progress into the full game."
       },
       "featured": "Featured & Essential",
-      "all": "All Demo Guides"
+      "all": "All Demo Articles"
     },
-    "support": {
-      "title": "Rhythm Heaven Groove Controls",
-      "description": "Controls, TV calibration, accessibility settings, and timing tips for Rhythm Heaven Groove.",
-      "metaTitle": "Rhythm Heaven Groove Controls - Calibration & Accessibility",
-      "metaDescription": "Get Rhythm Heaven Groove control tips including button timing, TV calibration, accessibility settings, and handheld vs TV setup.",
-      "categoryLabel": "CONTROLS & SETTINGS",
-      "whatIs": "What are Controls?",
-      "whatIsDescription": "Guides covering button timing, TV calibration, accessibility options, and the differences between handheld and TV play.",
-      "why": "Why check controls?",
+    "purchase": {
+      "title": "Rhythm Heaven Groove Purchase, Price & Pre-Order",
+      "description": "Price, pre-order bonus, physical copy, and where to buy Rhythm Heaven Groove at Amazon, GameStop, Target, Best Buy, and Nintendo eShop.",
+      "metaTitle": "Rhythm Heaven Groove Price & Pre-Order - Where to Buy",
+      "metaDescription": "Buy Rhythm Heaven Groove for $39.99. Compare prices, pre-order bonus, physical copy, and retailers like Amazon, GameStop, Target, and Best Buy.",
+      "categoryLabel": "BUY & PRICE",
+      "whatIs": "Where to Buy Rhythm Heaven Groove?",
+      "whatIsDescription": "The purchase section covers price, pre-order and pre-order bonus, physical and digital copies, and every retailer stocking Rhythm Heaven Groove.",
+      "why": "Why check the purchase guide?",
       "whySteps": {
-        "step1Title": "Calibrate Timing",
-        "step1Description": "Match button timing to your display",
-        "step2Title": "Use Accessibility",
-        "step2Description": "Turn on text read-aloud and other aids",
-        "step3Title": "Pick a Mode"
+        "step1Title": "Confirmed Price",
+        "step1Description": "Rhythm Heaven Groove has a regular price of $39.99 on Nintendo eShop.",
+        "step2Title": "Pre-Order Bonus",
+        "step2Description": "Compare the pre-order bonus and edition extras.",
+        "step3Title": "Retailer List",
+        "step3Description": "Find physical and digital copies at Amazon, GameStop, Target, Best Buy, and Nintendo eShop."
       },
       "featured": "Featured & Essential",
-      "all": "All Control Guides"
+      "all": "All Purchase Articles"
+    },
+    "review": {
+      "title": "Rhythm Heaven Groove Reviews & Metacritic Score",
+      "description": "Critic reviews, Metacritic score, Switch and Switch 2 performance, worth-it verdicts, and comparisons for Rhythm Heaven Groove.",
+      "metaTitle": "Rhythm Heaven Groove Review - Metacritic & Worth It",
+      "metaDescription": "Read Rhythm Heaven Groove reviews, the Metacritic score, Switch and Switch 2 performance, and worth-it comparisons before buying.",
+      "categoryLabel": "REVIEWS",
+      "whatIs": "Is Rhythm Heaven Groove Worth It?",
+      "whatIsDescription": "The review section covers critic reviews, the Metacritic score, Nintendo Switch and Switch 2 performance, worth-it verdicts, and platform comparisons.",
+      "why": "Why read the reviews?",
+      "whySteps": {
+        "step1Title": "Critic Scores",
+        "step1Description": "Track the Metacritic score and the critic consensus.",
+        "step2Title": "Switch vs Switch 2",
+        "step2Description": "Compare performance across Nintendo Switch and Switch 2.",
+        "step3Title": "Worth It Verdict",
+        "step3Description": "Decide whether Rhythm Heaven Groove is worth buying."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Review Articles"
+    },
+    "guide": {
+      "title": "Rhythm Heaven Groove Guides & Walkthrough",
+      "description": "Complete guides, beginner walkthrough, minigames list, total game count, and the rating system for Rhythm Heaven Groove.",
+      "metaTitle": "Rhythm Heaven Groove Guides - Walkthrough & Minigames",
+      "metaDescription": "Master Rhythm Heaven Groove with beginner guides, full walkthrough, the minigames list, total game count, and the rating system explained.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What are the Rhythm Heaven Groove Guides?",
+      "whatIsDescription": "The guides section covers beginner walkthroughs, the minigames list, total game count, the rating system, and timing strategies for Rhythm Heaven Groove.",
+      "why": "Why read the guides?",
+      "whySteps": {
+        "step1Title": "Beginner Walkthrough",
+        "step1Description": "Learn timing, audio cues, and the early practice order.",
+        "step2Title": "Minigames List",
+        "step2Description": "Explore the 80+ solo and 30+ multiplayer rhythm games.",
+        "step3Title": "Rating System",
+        "step3Description": "Understand ranks, medals, and how scoring works."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
     }
   }
 }
