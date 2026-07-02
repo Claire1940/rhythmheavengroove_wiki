@@ -1,10 +1,683 @@
 {
+  "seo": {
+    "home": {
+      "title": "リズム天国 ミラクルスターズ Wiki - ミニゲーム、Beatspell、体験版",
+      "description": "リズム天国 ミラクルスターズ Wikiでは、発売日、無料体験版、80以上のミニゲーム、Beatspell、ローカルマルチプレイモード、操作方法、コツ、トレーラー、そしてNintendo Switchのアップデート情報をまとめています。",
+      "keywords": "リズム天国 ミラクルスターズ, Nintendo Switch, 体験版, Beatspell, ミニゲーム, マルチプレイ",
+      "ogTitle": "リズム天国 ミラクルスターズ Wiki - ミニゲーム、Beatspell、体験版",
+      "ogDescription": "リズム天国 ミラクルスターズ Wikiでは、発売日、無料体験版、80以上のミニゲーム、Beatspell、ローカルマルチプレイモード、操作方法、コツ、トレーラー、そしてNintendo Switchのアップデート情報をまとめています。",
+      "twitterTitle": "リズム天国 ミラクルスターズ Wiki - ミニゲーム、Beatspell、体験版",
+      "twitterDescription": "リズム天国 ミラクルスターズ Wikiでは、発売日、体験版、ミニゲーム、Beatspell、マルチプレイ、操作方法、コツ、そしてNintendo Switchのアップデート情報をまとめています。"
+    }
+  },
   "nav": {
     "release": "リリース",
     "platforms": "プラットフォーム",
-    "demo": "デモ",
+    "demo": "体験版",
     "purchase": "購入",
     "review": "レビュー",
     "guide": "ガイド"
+  },
+  "common": {
+    "home": "ホーム",
+    "more": "もっと見る",
+    "playNow": "Nintendo Switchでプレイ",
+    "switchLanguage": "言語を切り替える",
+    "switchTheme": "テーマを切り替える",
+    "lightMode": "ライトモード",
+    "darkMode": "ダークモード",
+    "notFound": "ページが見つかりません",
+    "notFoundDescription": "お探しのページは存在しません。",
+    "backToHome": "ホームに戻る",
+    "relatedArticles": "関連記事",
+    "readMore": "続きを読む",
+    "articlesComingSoon": "記事は近日公開予定です"
+  },
+  "hero": {
+    "badge": "ユニークなリズムミニゲーム集",
+    "title": "リズム天国 ミラクルスターズ Wiki",
+    "description": "リズム天国 ミラクルスターズは、80以上の1人プレイ用リズムゲーム、30以上のローカルマルチプレイゲーム、Beatspell、無料体験版、トレーラー、タイミングのコツを特徴とする、Nintendo Switch向けの任天堂のリズムゲームです。",
+    "getFreeCodesCTA": "ガイドを見る",
+    "playOnSteamCTA": "Nintendo Switchでプレイ",
+    "stats": {
+      "stat1": {
+        "value": "2026年7月2日",
+        "label": "発売日"
+      },
+      "stat2": {
+        "value": "80+",
+        "label": "1人プレイ用リズムゲーム"
+      },
+      "stat3": {
+        "value": "30+",
+        "label": "マルチプレイゲーム"
+      },
+      "stat4": {
+        "value": "配信中",
+        "label": "無料体験版"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "リズム天国 ミラクルスターズ ゲームプレイ",
+    "description": "Nintendo Switchで、80以上のソロリズムゲーム、30以上のローカルマルチプレイチャレンジ、そしてアンロック可能なBeatspellリズムRPGモードを極めよう。"
+  },
+  "tools": {
+    "title": "リズム天国 ミラクルスターズ",
+    "titleHighlight": "Wikiガイド",
+    "subtitle": "発売情報、無料体験版、ミニゲーム、Beatspell、マルチプレイ、操作方法、トレーラーへ直接ジャンプ。",
+    "cards": [
+      {
+        "icon": "Clock",
+        "title": "発売情報と対応機種",
+        "description": "発売日、価格、Switch 2との互換性、エディション"
+      },
+      {
+        "icon": "ダウンロード",
+        "title": "体験版ガイド",
+        "description": "無料体験版の内容とセーブデータ引き継ぎ"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "ミニゲーム",
+        "description": "80以上のソロプレイと30以上のマルチプレイリズムゲーム"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "初心者ガイド",
+        "description": "タイミング、音の合図、序盤の練習手順"
+      },
+      {
+        "icon": "Users",
+        "title": "マルチプレイ",
+        "description": "ローカル1〜4人プレイの協力・対戦モード"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Beatspell",
+        "description": "リズムRPGの魔法詠唱とモンスターバトル"
+      },
+      {
+        "icon": "Keyboard",
+        "title": "操作方法",
+        "description": "ボタン入力のタイミング、テレビの調整、アクセシビリティ"
+      },
+      {
+        "icon": "Eye",
+        "title": "トレーラー",
+        "description": "公式トレーラーとゲームプレイ映像"
+      }
+    ]
+  },
+  "modules": {
+    "releaseDateAndPlatforms": {
+      "title": "リズム天国 ミラクルスターズ 発売詳細",
+      "intro": "発売日、対応機種、価格、エディション、互換性、パブリッシャー、ファイルサイズ、対応言語に関する疑問にすぐにお答えします。以下の情報はすべて任天堂の公式製品ページで確認されたものです。",
+      "specs": [
+        {
+          "label": "発売日",
+          "value": "2026年7月2日",
+          "detail": "任天堂はリズム天国 ミラクルスターズの発売日を2026年7月2日としています。"
+        },
+        {
+          "label": "対応機種",
+          "value": "Nintendo Switch",
+          "detail": "本ソフトは公式ストアおよび各地域の任天堂公式サイトにて、Nintendo Switch向けタイトルとして掲載されています。"
+        },
+        {
+          "label": "Switch 2との互換性",
+          "value": "対応",
+          "detail": "米国任天堂のストアページでは、Nintendo Switch 2での動作はNintendo Switchと同様であると記載されています。"
+        },
+        {
+          "label": "通常価格",
+          "value": "$39.99",
+          "detail": "米国任天堂のニュースページでは、通常価格が$39.99と記載されています。"
+        },
+        {
+          "label": "フォーマット",
+          "value": "ダウンロード版 & パッケージ版",
+          "detail": "任天堂はダウンロード版（eショップ）を掲載しており、各地域のページには販売店へのリンクが付いたパッケージ版も掲載されています。"
+        },
+        {
+          "label": "発売元",
+          "value": "任天堂",
+          "detail": "公式製品ページでは、任天堂が発売元として記載されています。"
+        },
+        {
+          "label": "共同開発",
+          "value": "TNX",
+          "detail": "任天堂の公式ページでは、任天堂、つんく♂、そしてTNXによる共同開発としてクレジットされています。"
+        },
+        {
+          "label": "プレイ人数",
+          "value": "ローカル 1〜4人",
+          "detail": "1台の本体でのマルチプレイは最大4人まで対応しています。人数分のコントローラーが必要になる場合があります。"
+        },
+        {
+          "label": "プレイモード",
+          "value": "TVモード、テーブルモード、携帯モード",
+          "detail": "Nintendo Switchの3つのプレイモードすべてに対応しています。"
+        },
+        {
+          "label": "必要容量",
+          "value": "3.5 GB",
+          "detail": "米国任天堂のストアでは、Nintendo SwitchおよびNintendo Switch 2向けに約3.5 GBのファイルサイズが記載されています。"
+        },
+        {
+          "label": "言語",
+          "value": "13言語",
+          "detail": "日本語、英語、フランス語、ドイツ語、イタリア語、スペイン語、韓国語、オランダ語、および中国語（簡体字・繁体字）に対応しています。"
+        },
+        {
+          "label": "レーティング",
+          "value": "軽度なファンタジー・バイオレンス",
+          "detail": "米国のリスティングでは、ESRBレーティングの「Mild Fantasy Violence」が表示されています。"
+        }
+      ]
+    },
+    "demoGuide": {
+      "title": "Rhythm Heaven Groove デモガイド",
+      "intro": "無料のStarter Demoは、初めてプレイする方に最適です。80種類以上のソロリズムゲームが解放される前に、Rhythm Heavenの基本コンセプトを学ぶことができます。また、シリーズファンの方も、購入前にタイミングやオーディオキュー、ローカルマルチプレイを試すことができます。",
+      "steps": [
+        {
+          "title": "ニンテンドーeショップを開く",
+          "description": "Nintendo SwitchまたはNintendo Switch 2でニンテンドーeショップを利用するか、任天堂の公式ゲームページを開いて「体験版ダウンロード」ボタンを選択してください。"
+        },
+        {
+          "title": "各地域のタイトル名で検索",
+          "description": "米国ストアでは「Rhythm Heaven Groove」で検索してください。イギリスやオーストラリアのページでは、同じゲームが「Rhythm Paradise Groove」として掲載されています。"
+        },
+        {
+          "title": "無料のStarter Demoをダウンロードする",
+          "description": "体験版は無料として記載されており、ニンテンドーeショップおよび各地域の任天堂公式サイトから入手可能です。"
+        },
+        {
+          "title": "最初の5つのソロリズムゲームをプレイ",
+          "description": "イギリスとオーストラリアの任天堂ページでは、体験版に最初の5つのソロリズムゲームが含まれていると説明されており、その一例として「Hoop Trundling」が確認されています。"
+        },
+        {
+          "title": "マルチプレイの毛抜きチャレンジに挑戦",
+          "description": "体験版では、友達と一緒に毛抜きのタイミングを試すこともできます。「Nintendo Today」の報道では、「Rhythm Tweezers」がハイライトされています。"
+        },
+        {
+          "title": "製品版へセーブデータを引き継ぐ",
+          "description": "体験版の進行状況は製品版に引き継ぐことができるため、早期の練習やクリアした内容はそのまま有料版へと継続されます。"
+        },
+        {
+          "title": "体験版をタイミングの練習として活用しよう",
+          "description": "体験版は、シリーズのリズムの法則（まずビートと合図を聞き、次に正しい瞬間にボタンを押す）を学ぶのに最適です。"
+        }
+      ]
+    },
+    "minigamesList": {
+      "title": "リズム天国 ミラクルスターズ ミニゲームリスト",
+      "intro": "任天堂は「リズム天国 ミラクルスターズ」を、80種類以上の1人用リズムゲームと30種類以上のマルチプレイヤー用リズムゲームを収録したコレクションとして紹介しています。以下のリストは、任天堂や主要メディアの報道で公開・説明されたミニゲームやシナリオに焦点を当てています。",
+      "games": [
+        {
+          "name": "輪回し",
+          "type": "1人用",
+          "description": "フープを飛び越えながらビートを刻みます。任天堂の説明では、合図のフレーズ「ぱ・ぴ・ぷ・ぺ・ぽ」と、最後の拍でジャンプすることが強調されています。"
+        },
+        {
+          "name": "Hop Stop N Roll",
+          "type": "1人用",
+          "description": "音楽に合わせてジャンプしたり転がったりする、起き上がりこぼしの猫の人形を操作します。シンプルなアクションで、早い段階からタイミングの自信を養うことができます。"
+        },
+        {
+          "name": "Fruit Flex",
+          "type": "1人用",
+          "description": "力こぶを作ってフルーツを弾き飛ばします。このゲームのリズムコメディの最も分かりやすい例の一つです。"
+        },
+        {
+          "name": "Slice N Dice Kitchen",
+          "type": "1人用",
+          "description": "任天堂の公式資料で紹介された、飛んでくる野菜を刻むという説明に合致する野菜切りリズムゲームです。"
+        },
+        {
+          "name": "Can Do",
+          "type": "1人用",
+          "description": "「Rhythm Paradise Groove」の任天堂公式スクリーンショットセットに掲載されている、タイトル付きの1人用リズムゲームです。"
+        },
+        {
+          "name": "Germ Aerobics",
+          "type": "1人用",
+          "description": "任天堂の公式スクリーンショットセットに掲載されている、タイトル付きの1人用リズムゲームです。"
+        },
+        {
+          "name": "Soda Hop",
+          "type": "1人用",
+          "description": "任天堂の公式スクリーンショットセットに掲載されている、タイトル付きの1人用リズムゲームです。"
+        },
+        {
+          "name": "Synchro Wings",
+          "type": "1人用",
+          "description": "任天堂の公式スクリーンショットセットに掲載されているタイトル付きの1人用リズムゲームで、飛んでいる鳥と一緒に羽ばたくという任天堂の説明と一致しています。"
+        },
+        {
+          "name": "リズム脱毛",
+          "type": "マルチプレイヤー",
+          "description": "プレイヤーが交代で、毛むくじゃらの玉ねぎの毛を抜きます。任天堂は、チームが集中力を維持しなければならない協力型のタイミングチャレンジとして紹介しています。"
+        },
+        {
+          "name": "Tennis Quest",
+          "type": "マルチプレイヤー",
+          "description": "プレイヤーが協力してモンスターを倒す、テニスをテーマにした協力型チャレンジです。"
+        },
+        {
+          "name": "Cake Wait",
+          "type": "マルチプレイヤー",
+          "description": "3時を告げる時計の音に合わせて、正確なタイミングの合図を待ち、ケーキを手に取ります。"
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "title": "リズム天国 ミラクルスターズ ビギナーガイド",
+      "intro": "「リズム天国 ミラクルスターズ」は、反応速度ではなくタイミングを重視して作られています。ゲームは一度に一つの小さなアクションを教え、次にプレイヤーにビートを聞き、合図を認識し、リズムに合わせてボタンを押すよう求めます。",
+      "steps": [
+        {
+          "title": "まずは無料体験版から始めましょう",
+          "description": "製品版をプレイする前に、まずはスターターデモで最初の5つのソロリズムゲームと、マルチプレイのRhythm Tweezersチャレンジを練習しましょう。"
+        },
+        {
+          "title": "各ミニゲームのイントロを見る",
+          "description": "リズム天国 ミラクルスターズでは、各リズムゲームの操作やtiming windowが短く説明されるので、スコアを競う前にルールを覚えましょう。"
+        },
+        {
+          "title": "見る前に聴く",
+          "description": "Nintendoはプレイヤーに耳を使うよう推奨しています。視覚に惑わされるゲームもあるため、アニメーションだけでなくbeat、cue、tempoが重要です。"
+        },
+        {
+          "title": "序盤のソロゲームを順番に練習する",
+          "description": "Hoop Trundling、Hop Stop N Roll、Fruit Flexは、jump、roll、flexのtimingの基本として紹介されているため、序盤の練習に最適です。"
+        },
+        {
+          "title": "cue wordsとtempoの変化に注目する",
+          "description": "各ゲームのbeat、ボタン操作、tempoのcueを聴き取りましょう。ステージによってはスピードが上がったり、入力の間隔が変わったりすることがあります。"
+        },
+        {
+          "title": "プレイ後のフィードバックを活用する",
+          "description": "各リズムゲームの終了後にはすぐに評価が表示されるため、リプレイしてtimingを調整し、安定感を高めることができます。"
+        },
+        {
+          "title": "Beatspellの解放を目指す",
+          "description": "ゲームを進めて、リズムに合わせた呪文入力でモンスターと戦う一人用モード「Beatspell」を解放しましょう。"
+        },
+        {
+          "title": "ソロ練習の後はマルチプレイへ",
+          "description": "基本的なbeatに慣れたら、ローカルマルチプレイに挑戦しましょう。1台のNintendo Switch本体で最大4人まで遊べます。各プレイヤーに対応するコントローラーが必要です。"
+        }
+      ],
+      "quickTips": [
+        "まずはbeatを聴き、その後に画面を見ましょう。",
+        "ディスプレイやコントローラーを変更した際は、TVのcalibration（遅延設定）を行ってください。",
+        "製品版を購入する前に、デモ版でtimingを練習しましょう。",
+        "4人でのローカルプレイには、プレイヤーごとに対応するコントローラーが必要です。"
+      ]
+    },
+    "multiplayerModes": {
+      "title": "リズム天国 ミラクルスターズ Multiplayer Modes",
+      "intro": "マルチプレイは、1台のNintendo Switch本体で友達と短いリズムチャレンジを楽しむためのモードです。各プレイヤーに対応するコントローラーが必要で、4人プレイの場合は追加のコントローラーが必要になることがあります。",
+      "modes": [
+        {
+          "label": "プレイヤー設定",
+          "value": "ローカルプレイ 1〜4人",
+          "description": "1台の本体に最大3人の友達を集めて、マルチプレイを楽しみましょう。",
+          "details": [
+            "プレイヤー1人につき対応コントローラー1個",
+            "TVモード、テーブルモード対応",
+            "追加のコントローラーが必要な場合があります"
+          ]
+        },
+        {
+          "label": "モード数",
+          "value": "30種類以上のマルチプレイゲーム",
+          "description": "マルチプレイには、協力型と対戦型両方のリズムゲームが含まれています。",
+          "details": [
+            "協力ゲームはみんなで成功を目指します",
+            "対戦ゲームは最も良いtimingでプレイした人が評価されます",
+            "1台の本体でプレイ可能"
+          ]
+        },
+        {
+          "label": "協力プレイの例",
+          "value": "beatに合わせて協力しましょう",
+          "description": "Rhythm Tweezersでは交代で毛の生えたタマネギの毛を抜き、Tennis Questではリズムのtimingを合わせて協力してモンスターと戦います。",
+          "details": [
+            "Rhythm Tweezers",
+            "Tennis Quest",
+            "チームの勝利条件"
+          ]
+        },
+        {
+          "label": "対戦プレイの例",
+          "value": "ビートに合わせて友達と競い合おう",
+          "description": "「Cake Wait」は、時計が3を指した瞬間にケーキをつかむゲームです。他にも、レスラーのレース、矢を斬るゲーム、転がるボールのサバイバルチャレンジなどがあります。",
+          "details": [
+            "Cake Wait",
+            "レスラーのレース",
+            "矢を斬るチャレンジ",
+            "転がるボールのサバイバルチャレンジ"
+          ]
+        }
+      ]
+    },
+    "beatspellMode": {
+      "title": "Rhythm Heaven Groove Beatspellモード",
+      "intro": "Beatspellは通常の音ゲーリストとは別に、ストーリー重視のバトルモードとして楽しめます。メインゲームを進めてアンロックし、ソロの音ゲーでメダルを獲得して新しい章を解放しましょう。",
+      "features": [
+        {
+          "label": "アンロック方法",
+          "value": "ゲームの進行でアンロック",
+          "description": "Beatspellはメインゲームを進めるとプレイ可能になり、ソロの音ゲーでメダルを獲得することで新しい章が解放されます。",
+          "tags": [
+            "進行状況",
+            "メダル",
+            "ソロゲーム"
+          ]
+        },
+        {
+          "label": "バトルループ",
+          "value": "ビートに合わせて呪文を唱えよう",
+          "description": "モンスターとの遭遇時、リズムに合わせてボタンをタップし、リズムベースの呪文を唱えます。",
+          "tags": [
+            "タイミング",
+            "呪文詠唱",
+            "モンスターバトル"
+          ]
+        },
+        {
+          "label": "呪文の役割",
+          "value": "攻撃、回復など",
+          "description": "敵への火炎攻撃や自己回復などの呪文があり、呪文の効果によって異なるリズムが使われます。",
+          "tags": [
+            "火炎呪文",
+            "回復",
+            "異なるリズム"
+          ]
+        },
+        {
+          "label": "進行状況",
+          "value": "能力強化",
+          "description": "Beatspellには能力成長やストーリーの章があり、通常の音ゲークリア以上の長編モードを楽しめます。",
+          "tags": [
+            "能力",
+            "ストーリー",
+            "章"
+          ]
+        },
+        {
+          "label": "モードの違い",
+          "value": "RPGの構成、リズム入力",
+          "description": "メインの音ゲーは短く独立したタイミングテストですが、Beatspellはバトル、呪文、敵、章の進行にリズムスキルを使用します。",
+          "tags": [
+            "RPGモード",
+            "サイドモード",
+            "シングルプレイヤー"
+          ]
+        }
+      ]
+    },
+    "controlsAndAccessibility": {
+      "title": "Rhythm Heaven Grooveの操作とアクセシビリティ",
+      "intro": "ほとんどのゲームでは、音楽、キュー音、テンポの変化に合わせてタイミングよくボタンを押します。TVモード、テーブルモード、携帯モードに対応しており、テキスト読み上げやタイミング調整などのアクセシビリティオプションも備えています。",
+      "faqs": [
+        {
+          "question": "リズム天国 ミラクルスターズの基本操作はどのようになっていますか？",
+          "answer": "基本的なルールは、beatに合わせてボタンを押すことです。多くのリズムゲームでは、少ないボタン入力を使用し、合図のパターン、tempo、または視覚的な妨害要素を変化させることで、聴く力とtimingをテストします。"
+        },
+        {
+          "question": "リズム天国 ミラクルスターズのプレイヤーは、画面を見るべきですか、それとも音楽を聴くべきですか？",
+          "answer": "聴くことの方が確実な習慣です。一部のゲームでは目が惑わされることがあるため、プレイヤーは視覚的な指示だけに頼るのではなく、beat、ボタンアクションの合図、そしてtempoに従う必要があります。"
+        },
+        {
+          "question": "リズム天国 ミラクルスターズのTVキャリブレーションにはどのような効果がありますか？",
+          "answer": "ゲームには、TVプレイ時のボタンのtimingを微調整するためのキャリブレーションオプションが含まれています。ディスプレイの切り替え、コントローラーの変更、または入力がわずかに遅い、あるいは早いと感じる場合にキャリブレーションを実行してください。"
+        },
+        {
+          "question": "リズム天国 ミラクルスターズには、テキストに関するどのようなアクセシビリティ設定がありますか？",
+          "answer": "画面上のテキストは、ゲーム内アシスタントのLi'l Miss Reedsによって音声で読み上げることができ、音声による案内を好むプレイヤーをサポートします。"
+        },
+        {
+          "question": "リズム天国 ミラクルスターズはどのプレイモードに対応していますか？",
+          "answer": "TVモード、テーブルモード、携帯モードに対応しています。Nintendoは、Nintendo Switch Liteでのプレイ体験が異なる場合があること、およびマルチプレイには追加のコントローラーが必要になる場合があることを案内しています。"
+        },
+        {
+          "question": "リズム天国 ミラクルスターズのプレイヤーは、マルチプレイの前に何を確認すべきですか？",
+          "answer": "プレイヤー1人につき、対応するコントローラーを1個使用します。4人でのローカルプレイの場合は、マルチプレイを開始する前に十分な数のコントローラーを用意してください。"
+        }
+      ]
+    },
+    "trailersAndVideos": {
+      "title": "リズム天国 ミラクルスターズ トレーラー＆プレイ動画",
+      "intro": "このビデオ集では、リズム天国 ミラクルスターズのリズムゲーム、パーティプレイ、サイドモードの様子を紹介しています。最初の発表時のreveal trailerから始めて、overview trailerやTreehouseの映像でマルチプレイ、Beatspell、実際のゲームプレイの流れをご覧ください。",
+      "mainVideo": {
+        "videoId": "ZdMwqKiSeEE",
+        "title": "リズム天国 ミラクルスターズ - Overview Trailer - Nintendo Switch"
+      },
+      "videos": [
+        {
+          "title": "リズム天国 ミラクルスターズ - Nintendo Direct 3.27.2025",
+          "type": "Reveal Trailer",
+          "date": "2025年3月27日",
+          "url": "https://www.youtube.com/watch?v=ZkgjFacpnLE",
+          "watchFor": [
+            "リズム天国シリーズ新作の発表",
+            "Nintendo Switchの発売時期",
+            "基本的なリズムゲームのスタイル"
+          ]
+        },
+        {
+          "title": "リズム天国 ミラクルスターズ - Overview Trailer - Nintendo Switch",
+          "type": "Overview Trailer",
+          "date": "2026年6月9日",
+          "url": "https://www.youtube.com/watch?v=ZdMwqKiSeEE",
+          "watchFor": [
+            "80種類以上の1人プレイ用リズムゲーム",
+            "30種類以上のマルチプレイ用リズムゲーム",
+            "Beatspellモード",
+            "アクセシビリティとキャリブレーション機能"
+          ]
+        },
+        {
+          "title": "リズム天国 ミラクルスターズ - Gameplay Video - Nintendo Treehouse: Live | 2026年6月",
+          "type": "ゲームプレイ紹介",
+          "date": "2026年6月",
+          "url": "https://www.youtube.com/watch?v=QeY3WCQ94Hw",
+          "watchFor": [
+            "詳しいゲームプレイの流れ",
+            "リズムの合図の教え方",
+            "timingに基づいたプレイのライブデモンストレーション"
+          ]
+        },
+        {
+          "title": "Nintendo Treehouseがリズム天国 ミラクルスターズのBeatspellをプレイ",
+          "type": "Beatspell ゲームプレイ",
+          "date": "2026年6月",
+          "url": "https://www.youtube.com/watch?v=ZXi4zQJZLRA",
+          "watchFor": [
+            "解放可能なBeatspellモード",
+            "リズムに合わせた呪文詠唱",
+            "モンスターバトル"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "よくある",
+    "titleHighlight": "質問",
+    "subtitle": "リズム天国 ミラクルスターズのすべて",
+    "questions": [
+      {
+        "question": "リズム天国 ミラクルスターズの発売日と対応プラットフォームは？",
+        "answer": "リズム天国 ミラクルスターズは2026年7月2日にNintendo Switchで発売されます。また、米国の任天堂ストアではNintendo Switch 2との互換性対応が確認されています。"
+      },
+      {
+        "question": "リズム天国 ミラクルスターズの無料体験版はありますか？",
+        "answer": "はい。無料のスターター体験版には、最初の5つのソロリズムゲームとマルチプレイヤーの毛抜きチャレンジが含まれており、体験版の進行状況は製品版に引き継ぐことができます。"
+      },
+      {
+        "question": "リズム天国 ミラクルスターズのミニゲーム数は？",
+        "answer": "リズム天国 ミラクルスターズには、80種類以上のシングルプレイヤー用リズムゲームと30種類以上のローカルマルチプレイヤー用リズムゲームに加え、解放可能なBeatspellモードが収録されています。"
+      },
+      {
+        "question": "リズム天国 ミラクルスターズはマルチプレイヤーに対応していますか？",
+        "answer": "はい。リズム天国 ミラクルスターズは、1台のNintendo Switch本体で1～4人までのローカル協力・対戦プレイに対応しています。オンラインマルチプレイには対応していません。"
+      },
+      {
+        "question": "リズム天国 ミラクルスターズのBeatspellとは何ですか？",
+        "answer": "Beatspellはリズム天国 ミラクルスターズで解放可能なシングルプレイヤー用リズムRPGモードで、ボタンのタイミングが呪文詠唱、回復、モンスターバトルになります。"
+      },
+      {
+        "question": "リズム天国 ミラクルスターズの価格は？",
+        "answer": "リズム天国 ミラクルスターズのNintendo Switch eShopでの通常価格は39.99ドルで、地域によってダウンロード版とパッケージ版の両方が利用可能です。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "リズム天国 ミラクルスターズをプレイする準備はいいですか？",
+    "description": "公式の紹介映像（Overview Trailer）をチェックして、Nintendo Switchでリズム天国 ミラクルスターズを手に入れましょう。無料のスターター体験版も配信中です。",
+    "joinCommunity": "紹介映像を見る",
+    "joinGame": "Nintendo Switchでプレイ"
+  },
+  "footer": {
+    "title": "リズム天国 ミラクルスターズ Wiki",
+    "description": "リズム天国 ミラクルスターズの発売情報、体験版、80種類以上のミニゲーム、Beatspell、マルチプレイモード、操作方法、タイミングのコツなどを網羅した完全リソースハブです。",
+    "resources": "リソース",
+    "community": "コミュニティ",
+    "legal": "法的情報",
+    "reddit": "Redditコミュニティ",
+    "youtube": "公式トレーラー",
+    "nintendoStore": "ニンテンドーストア",
+    "officialSite": "公式サイト",
+    "about": "このサイトについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyrightNotice": "著作権",
+    "copyright": "© 2026 Rhythm Heaven Groove Wiki. 任天堂とは提携していません。",
+    "disclaimer": "非公式のファンによるリソースウェブサイトです。"
+  },
+  "pages": {
+    "release": {
+      "title": "リズム天国 ミラクルスターズの発売日とリリース情報",
+      "description": "Nintendo Switch版『リズム天国 ミラクルスターズ』の公式発売日、各地域の配信開始時間、カウントダウン。",
+      "metaTitle": "『リズム天国 ミラクルスターズ』発売日 - 配信日＆カウントダウン",
+      "metaDescription": "『リズム天国 ミラクルスターズ』は2026年7月2日にNintendo Switchで発売されます。公式発売日、配信開始時間、カウントダウンはこちらで確認できます。",
+      "categoryLabel": "発売日",
+      "whatIs": "『リズム天国 ミラクルスターズ』の発売日はいつ？",
+      "whatIsDescription": "発売セクションでは、Nintendo SwitchおよびNintendo Switch 2版『リズム天国 ミラクルスターズ』の公式発売日、各地域の配信開始時間、カウントダウンについて説明します。",
+      "why": "なぜ発売日を確認するのか？",
+      "whySteps": {
+        "step1Title": "確定した発売日",
+        "step1Description": "任天堂は『リズム天国 ミラクルスターズ』の公式発売日を2026年7月2日としています。",
+        "step2Title": "各地域の配信開始時間",
+        "step2Description": "任天堂の各地域のニンテンドーeショップにおける配信開始時間を確認しましょう。",
+        "step3Title": "発売までのカウントダウン",
+        "step3Description": "発売カウントダウンに合わせて、ダウンロードや初プレイの計画を立てましょう。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "発売日に関する全記事"
+    },
+    "platforms": {
+      "title": "『リズム天国 ミラクルスターズ』の対応プラットフォームとSwitch 2互換性",
+      "description": "Nintendo Switch、Nintendo Switch 2、各エディション、Nintendo Switch Lite、PCでの利用可否など、『リズム天国 ミラクルスターズ』が動作するすべてのプラットフォーム。",
+      "metaTitle": "『リズム天国 ミラクルスターズ』対応プラットフォーム - Switch、Switch 2、PC",
+      "metaDescription": "『リズム天国 ミラクルスターズ』はNintendo Switchで発売され、Nintendo Switch 2との互換性も確認されています。各エディション、Nintendo Switch Liteの対応、PC版の有無を比較してください。",
+      "categoryLabel": "プラットフォーム",
+      "whatIs": "『リズム天国 ミラクルスターズ』の対応プラットフォームは？",
+      "whatIsDescription": "プラットフォームセクションでは、Nintendo Switch、Nintendo Switch 2の互換性、各エディション、Nintendo Switch Lite、PCでの利用可否など、『リズム天国 ミラクルスターズ』が動作するすべてのハードウェアを網羅しています。",
+      "why": "なぜプラットフォームリストを確認するのか？",
+      "whySteps": {
+        "step1Title": "Nintendo Switch ＆ Nintendo Switch 2",
+        "step1Description": "Nintendo Switchでプレイ可能。Nintendo Switch 2との互換性も確認済みです。",
+        "step2Title": "エディション ＆ パッケージ版",
+        "step2Description": "ダウンロード版、パッケージ版、Nintendo Switch 2版を比較しましょう。",
+        "step3Title": "Switch Lite ＆ PC",
+        "step3Description": "Nintendo Switch Liteでのプレイ体験や、PC版が存在するかどうかを確認しましょう。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "プラットフォームに関する全記事"
+    },
+    "demo": {
+      "title": "『リズム天国 ミラクルスターズ』体験版 ＆ スターター体験版ガイド",
+      "description": "無料のスターター体験版をダウンロードして、内容の確認、セーブデータの引き継ぎ、体験版のフルゲームプレイ動画をチェックしましょう。",
+      "metaTitle": "『リズム天国 ミラクルスターズ』体験版 - 無料スターター体験版ダウンロード",
+      "metaDescription": "ニンテンドーeショップで『リズム天国 ミラクルスターズ』の無料スターター体験版を手に入れましょう。内容、引き継ぎ、フルゲームプレイ動画も掲載。",
+      "categoryLabel": "無料体験版",
+      "whatIs": "『リズム天国 ミラクルスターズ』の体験版とは？",
+      "whatIsDescription": "体験版セクションでは、無料のスターター体験版、収録されているソロ・マルチプレイヤー用ゲーム、製品版への引き継ぎ、および体験版のフルゲームプレイについて説明します。",
+      "why": "なぜ体験版を試すのか？",
+      "whySteps": {
+        "step1Title": "購入前にまずは体験",
+        "step1Description": "最初の5つのソロリズムゲームを無料でプレイ。",
+        "step2Title": "マルチプレイをテスト",
+        "step2Description": "友達と一緒にマルチプレイの毛抜きチャレンジに挑戦。",
+        "step3Title": "進行状況を保存",
+        "step3Description": "体験版の進行状況を製品版に引き継ぐことができます。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "すべての体験版記事"
+    },
+    "purchase": {
+      "title": "Rhythm Heaven Groove の購入、価格、予約注文",
+      "description": "Rhythm Heaven Groove の価格、予約特典、パッケージ版、および Amazon、GameStop、Target、Best Buy、Nintendo eShop での購入場所。",
+      "metaTitle": "Rhythm Heaven Groove の価格と予約注文 - 購入場所",
+      "metaDescription": "Rhythm Heaven Groove を $39.99 で購入。価格、予約特典、パッケージ版、および Amazon、GameStop、Target、Best Buy などの小売店を比較。",
+      "categoryLabel": "購入と価格",
+      "whatIs": "Rhythm Heaven Groove はどこで購入できますか？",
+      "whatIsDescription": "購入セクションでは、価格、予約と予約特典、パッケージ版とダウンロード版、および Rhythm Heaven Groove を取り扱っているすべての小売店について説明します。",
+      "why": "なぜ購入ガイドをチェックするのですか？",
+      "whySteps": {
+        "step1Title": "確定価格",
+        "step1Description": "Rhythm Heaven Groove の Nintendo eShop での通常価格は $39.99 です。",
+        "step2Title": "予約特典",
+        "step2Description": "予約特典とエディションの特典を比較。",
+        "step3Title": "小売店リスト",
+        "step3Description": "Amazon、GameStop、Target、Best Buy、Nintendo eShop でパッケージ版とダウンロード版を見つける。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "すべての購入関連記事"
+    },
+    "review": {
+      "title": "Rhythm Heaven Groove のレビューと Metacritic スコア",
+      "description": "Rhythm Heaven Groove の批評家レビュー、Metacritic スコア、Switch および Switch 2 でのパフォーマンス、購入価値の判定、および比較。",
+      "metaTitle": "Rhythm Heaven Groove レビュー - Metacritic と購入価値",
+      "metaDescription": "購入前に Rhythm Heaven Groove のレビュー、Metacritic スコア、Switch および Switch 2 でのパフォーマンス、購入価値の比較を確認。",
+      "categoryLabel": "レビュー",
+      "whatIs": "Rhythm Heaven Groove は買う価値がありますか？",
+      "whatIsDescription": "レビューセクションでは、批評家レビュー、Metacritic スコア、Nintendo Switch および Switch 2 でのパフォーマンス、購入価値の判定、およびプラットフォームの比較について説明します。",
+      "why": "なぜレビューを読むのですか？",
+      "whySteps": {
+        "step1Title": "批評家スコア",
+        "step1Description": "Metacritic スコアと批評家の総意を追跡。",
+        "step2Title": "Switch vs Switch 2",
+        "step2Description": "Nintendo Switch と Switch 2 のパフォーマンスを比較。",
+        "step3Title": "購入価値の判定",
+        "step3Description": "Rhythm Heaven Groove が買う価値があるかどうかを判断。"
+      },
+      "featured": "おすすめ＆必須情報",
+      "all": "すべてのレビュー記事"
+    },
+    "guide": {
+      "title": "Rhythm Heaven Groove ガイド＆攻略",
+      "description": "Rhythm Heaven Groove の完全ガイド、初心者向け攻略、ミニゲームリスト、総ゲーム数、評価システム。",
+      "metaTitle": "Rhythm Heaven Groove ガイド - 攻略＆ミニゲーム",
+      "metaDescription": "初心者向けガイド、完全攻略、ミニゲームリスト、総ゲーム数、評価システムの解説で Rhythm Heaven Groove をマスターしましょう。",
+      "categoryLabel": "ゲームガイド",
+      "whatIs": "Rhythm Heaven Groove ガイドとは？",
+      "whatIsDescription": "ガイドセクションでは、Rhythm Heaven Groove の初心者向け攻略、ミニゲームリスト、総ゲーム数、評価システム、タイミングの攻略法を網羅しています。",
+      "why": "なぜガイドを読むのか？",
+      "whySteps": {
+        "step1Title": "初心者向け攻略",
+        "step1Description": "タイミング、音の合図、序盤の練習順序を学びましょう。",
+        "step2Title": "ミニゲームリスト",
+        "step2Description": "80種類以上のソロ用と30種類以上のマルチプレイヤー用リズムゲームをチェック。",
+        "step3Title": "評価システム",
+        "step3Description": "ランク、メダル、スコアの仕組みを理解しましょう。"
+      },
+      "featured": "注目のガイド＆必須ガイド",
+      "all": "すべてのガイド"
+    }
   }
 }

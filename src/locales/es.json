@@ -1,10 +1,683 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de Rhythm Heaven Groove - Minijuegos, Beatspell y Demo",
+      "description": "La wiki de Rhythm Heaven Groove sigue la fecha de lanzamiento, la demo gratuita, más de 80 minijuegos, Beatspell, modos multijugador local, controles, consejos, tráileres y actualizaciones de Nintendo Switch.",
+      "keywords": "Rhythm Heaven Groove, Nintendo Switch, demo, Beatspell, minijuegos, multijugador",
+      "ogTitle": "Wiki de Rhythm Heaven Groove - Minijuegos, Beatspell y Demo",
+      "ogDescription": "La wiki de Rhythm Heaven Groove sigue la fecha de lanzamiento, la demo gratuita, más de 80 minijuegos, Beatspell, modos multijugador local, controles, consejos, tráileres y actualizaciones de Nintendo Switch.",
+      "twitterTitle": "Wiki de Rhythm Heaven Groove - Minijuegos, Beatspell y Demo",
+      "twitterDescription": "La wiki de Rhythm Heaven Groove cubre la fecha de lanzamiento, demo, minijuegos, Beatspell, multijugador, controles, consejos y actualizaciones de Nintendo Switch."
+    }
+  },
   "nav": {
     "release": "Lanzamiento",
     "platforms": "Plataformas",
     "demo": "Demo",
-    "purchase": "Compra",
-    "review": "Reseñas",
+    "purchase": "Comprar",
+    "review": "Reseña",
     "guide": "Guía"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Nintendo Switch",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Colección de minijuegos de ritmo peculiares",
+    "title": "Wiki de Rhythm Heaven Groove",
+    "description": "Rhythm Heaven Groove es el juego de ritmo de Nintendo para Nintendo Switch, que cuenta con más de 80 juegos de ritmo para un jugador, más de 30 juegos multijugador local, Beatspell, una demo gratuita, tráileres y consejos de timing.",
+    "getFreeCodesCTA": "Ver guías",
+    "playOnSteamCTA": "Jugar en Nintendo Switch",
+    "stats": {
+      "stat1": {
+        "value": "2 de julio de 2026",
+        "label": "Fecha de lanzamiento"
+      },
+      "stat2": {
+        "value": "Más de 80",
+        "label": "Juegos de ritmo en solitario"
+      },
+      "stat3": {
+        "value": "Más de 30",
+        "label": "Juegos multijugador"
+      },
+      "stat4": {
+        "value": "Disponible",
+        "label": "Demo gratuita"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Rhythm Heaven Groove",
+    "description": "Domina más de 80 juegos de ritmo en solitario, más de 30 desafíos multijugador local y el modo RPG de ritmo Beatspell desbloqueable en Nintendo Switch."
+  },
+  "tools": {
+    "title": "Rhythm Heaven Groove",
+    "titleHighlight": "Guías wiki",
+    "subtitle": "Ve directo a la información de lanzamiento, la demo gratuita, los minijuegos, Beatspell, el multijugador, los controles y los tráileres.",
+    "cards": [
+      {
+        "icon": "Clock",
+        "title": "Lanzamiento y plataformas",
+        "description": "Fecha de lanzamiento, precio, compatibilidad con Switch 2 y ediciones"
+      },
+      {
+        "icon": "Descargar",
+        "title": "Guía de la demo",
+        "description": "Contenido de la demo de inicio gratuita y transferencia de progreso"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Minijuegos",
+        "description": "Más de 80 juegos de ritmo en solitario y más de 30 multijugador"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guía para principiantes",
+        "description": "Timing, pistas de audio y orden de práctica inicial"
+      },
+      {
+        "icon": "Users",
+        "title": "Multijugador",
+        "description": "Modos cooperativo y competitivo local de 1 a 4 jugadores"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Beatspell",
+        "description": "Lanzamiento de hechizos de RPG de ritmo y batallas contra monstruos"
+      },
+      {
+        "icon": "Keyboard",
+        "title": "Controles",
+        "description": "Timing de los botones, calibración de TV y accesibilidad"
+      },
+      {
+        "icon": "Eye",
+        "title": "Tráileres",
+        "description": "Tráileres oficiales y videos de jugabilidad"
+      }
+    ]
+  },
+  "modules": {
+    "releaseDateAndPlatforms": {
+      "title": "Detalles de lanzamiento de Rhythm Heaven Groove",
+      "intro": "La respuesta rápida para búsquedas de fecha de lanzamiento, plataforma, precio, edición, compatibilidad, distribuidor, tamaño de archivo e idioma. Cada detalle a continuación está confirmado por las páginas oficiales de productos de Nintendo.",
+      "specs": [
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "2 de julio de 2026",
+          "detail": "Nintendo indica que la fecha de lanzamiento de Rhythm Heaven Groove es el 2 de julio de 2026."
+        },
+        {
+          "label": "Plataforma",
+          "value": "Nintendo Switch",
+          "detail": "El juego figura como un título de Nintendo Switch en la tienda oficial y en las páginas regionales de Nintendo."
+        },
+        {
+          "label": "Compatibilidad con Switch 2",
+          "value": "Compatible",
+          "detail": "La tienda de Nintendo en EE. UU. indica que el comportamiento del juego en Nintendo Switch 2 es consistente con el de Nintendo Switch."
+        },
+        {
+          "label": "Precio habitual",
+          "value": "$39.99",
+          "detail": "La página de noticias de Nintendo de EE. UU. indica que el precio normal es de $39.99."
+        },
+        {
+          "label": "Formatos",
+          "value": "Digital y físico",
+          "detail": "Nintendo incluye una versión digital para la eShop, y las páginas regionales también muestran una versión física con enlaces a tiendas."
+        },
+        {
+          "label": "Distribuidor",
+          "value": "Nintendo",
+          "detail": "Nintendo figura como el distribuidor en las páginas oficiales del producto."
+        },
+        {
+          "label": "Codesarrollo",
+          "value": "TNX",
+          "detail": "Las páginas oficiales de Nintendo dan crédito a Nintendo, Tsunku y al codesarrollo de TNX."
+        },
+        {
+          "label": "Jugadores",
+          "value": "1-4 local",
+          "detail": "El modo multijugador en una sola consola es compatible con hasta cuatro jugadores. Es posible que se requieran controles compatibles adicionales."
+        },
+        {
+          "label": "Modos de juego",
+          "value": "TV, sobremesa, portátil",
+          "detail": "Se indica que los tres modos de juego de Nintendo Switch son compatibles."
+        },
+        {
+          "label": "Tamaño del archivo",
+          "value": "3,5 GB",
+          "detail": "La tienda de Nintendo de EE. UU. indica un tamaño de archivo estimado de 3,5 GB tanto para Nintendo Switch como para Nintendo Switch 2."
+        },
+        {
+          "label": "Idiomas",
+          "value": "13 idiomas",
+          "detail": "Se admiten los idiomas japonés, inglés, francés, alemán, italiano, español, coreano, neerlandés y las variantes de chino simplificado y tradicional."
+        },
+        {
+          "label": "Clasificación",
+          "value": "Mild Fantasy Violence",
+          "detail": "La lista de EE. UU. muestra una clasificación ESRB de Mild Fantasy Violence."
+        }
+      ]
+    },
+    "demoGuide": {
+      "title": "Guía de la demo de Rhythm Heaven Groove",
+      "intro": "La Starter Demo gratuita es el punto de partida ideal para los nuevos jugadores. Enseña la idea central de Rhythm Heaven antes de que se abra el catálogo completo de más de 80 juegos de ritmo individuales, y permite a los fans habituales probar el timing, las señales de audio y el modo multijugador local antes de comprar el juego.",
+      "steps": [
+        {
+          "title": "Abre Nintendo eShop",
+          "description": "Usa Nintendo eShop en Nintendo Switch o Nintendo Switch 2, o abre la página oficial del juego de Nintendo y selecciona el botón \"Download demo\"."
+        },
+        {
+          "title": "Busca el título regional",
+          "description": "Busca Rhythm Heaven Groove en la tienda de EE. UU. En las páginas de Reino Unido y Australia, el mismo juego aparece como Rhythm Paradise Groove."
+        },
+        {
+          "title": "Descarga la Starter Demo gratuita",
+          "description": "La demo figura como gratuita y está disponible en Nintendo eShop y en las páginas regionales oficiales de Nintendo."
+        },
+        {
+          "title": "Juega a los primeros cinco juegos de ritmo individuales",
+          "description": "Las páginas de Nintendo de Reino Unido y Australia describen que la demo incluye los primeros cinco juegos de ritmo individuales, con Hoop Trundling como uno de los ejemplos confirmados."
+        },
+        {
+          "title": "Prueba el desafío multijugador de las pinzas",
+          "description": "La demo también permite a los jugadores probar el timing de las pinzas junto con amigos, con Rhythm Tweezers destacado en la cobertura de Nintendo Today."
+        },
+        {
+          "title": "Transfiere el progreso al juego completo",
+          "description": "El progreso de la demo se puede transferir al juego completo, por lo que la práctica inicial y el contenido superado de la demo se conservarán en la versión de pago."
+        },
+        {
+          "title": "Usa la demo como práctica de timing",
+          "description": "La demo se utiliza mejor para aprender la regla de ritmo de la serie: escuchar primero el beat y la señal, y luego presionar el botón en el momento adecuado."
+        }
+      ]
+    },
+    "minigamesList": {
+      "title": "Lista de minijuegos de Rhythm Heaven Groove",
+      "intro": "Nintendo presenta Rhythm Heaven Groove como una colección con más de 80 juegos de ritmo en solitario y más de 30 juegos de ritmo multijugador. La siguiente lista se centra en los minijuegos y escenarios con nombre mostrados o descritos por Nintendo y la cobertura de los principales medios de comunicación.",
+      "games": [
+        {
+          "name": "Hoop Trundling",
+          "type": "Solo",
+          "description": "Mantén el beat mientras saltas sobre aros. La descripción de Nintendo destaca la frase de indicación pa pi pu pe po y saltar en el beat final."
+        },
+        {
+          "name": "Hop Stop N Roll",
+          "type": "Solo",
+          "description": "Controla a un muñeco de gato tentetieso que salta y rueda con la música, usando acciones simples que desarrollan la confianza en el timing desde el principio."
+        },
+        {
+          "name": "Fruit Flex",
+          "type": "Solo",
+          "description": "Flexiona tus bíceps para golpear la fruta y colocarla en su lugar, uno de los ejemplos más claros de la comedia de ritmo del juego."
+        },
+        {
+          "name": "Slice N Dice Kitchen",
+          "type": "Solo",
+          "description": "Un juego de ritmo de picar verduras mostrado en los materiales oficiales de Nintendo, que coincide con la descripción general de picar verduras voladoras."
+        },
+        {
+          "name": "Can Do",
+          "type": "Solo",
+          "description": "Un juego de ritmo en solitario con nombre mostrado en el conjunto de capturas de pantalla oficiales de Nintendo para Rhythm Paradise Groove."
+        },
+        {
+          "name": "Germ Aerobics",
+          "type": "Solo",
+          "description": "Un juego de ritmo en solitario con nombre mostrado en el conjunto de capturas de pantalla oficiales de Nintendo."
+        },
+        {
+          "name": "Soda Hop",
+          "type": "Solo",
+          "description": "Un juego de ritmo en solitario con nombre mostrado en el conjunto de capturas de pantalla oficiales de Nintendo."
+        },
+        {
+          "name": "Synchro Wings",
+          "type": "Solo",
+          "description": "Un juego de ritmo en solitario con nombre mostrado en el conjunto de capturas de pantalla oficiales de Nintendo, que coincide con la descripción de Nintendo de aletear junto a aves en vuelo."
+        },
+        {
+          "name": "Rhythm Tweezers",
+          "type": "Multijugador",
+          "description": "Los jugadores se turnan para depilar una cebolla muy peluda. Nintendo lo presenta como un desafío cooperativo de timing donde el equipo debe mantenerse alerta."
+        },
+        {
+          "name": "Tennis Quest",
+          "type": "Multijugador",
+          "description": "Un desafío cooperativo con temática de tenis donde los jugadores trabajan juntos para derrotar monstruos."
+        },
+        {
+          "name": "Cake Wait",
+          "type": "Multijugador",
+          "description": "Los jugadores esperan la señal exacta de timing para agarrar una porción de pastel cuando el reloj marca las 3."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "title": "Guía para principiantes de Rhythm Heaven Groove",
+      "intro": "Rhythm Heaven Groove está construido al rededor del timing, no de la velocidad de reacción. El juego enseña una pequeña acción a la vez, luego pide a los jugadores que escuchen el beat, reconozcan la señal y presionen el botón al ritmo.",
+      "steps": [
+        {
+          "title": "Empieza con la demo gratuita",
+          "description": "Comienza con la Starter Demo para practicar los primeros cinco juegos de ritmo individuales y un desafío de pinzas multijugador antes de pasar al juego completo."
+        },
+        {
+          "title": "Mira la introducción de cada minijuego",
+          "description": "Rhythm Heaven Groove introduce cada juego de ritmo con una breve explicación de la acción y la ventana de timing, así que aprende la regla antes de buscar la puntuación."
+        },
+        {
+          "title": "Escucha antes de mirar",
+          "description": "Nintendo les dice a los jugadores que usen sus oídos. Algunos juegos pueden engañar a tus ojos, por lo que el beat, la señal y el tempo importan más que la animación por sí sola."
+        },
+        {
+          "title": "Practica los primeros juegos individuales en orden",
+          "description": "Usa Hoop Trundling, Hop Stop N Roll y Fruit Flex como práctica inicial porque Nintendo los presenta como ejemplos simples de timing de salto, giro y flexión."
+        },
+        {
+          "title": "Concéntrate en las palabras de señal y los cambios de tempo",
+          "description": "Escucha el beat, la acción de pulsar botones y las señales de tempo de cada juego. Algunas fases se aceleran o cambian el espacio entre las pulsaciones."
+        },
+        {
+          "title": "Usa la retroalimentación entre intentos",
+          "description": "Cada juego de ritmo corto ofrece una retroalimentación rápida de rendimiento, lo que facilita volver a jugar, ajustar el timing y ganar consistencia."
+        },
+        {
+          "title": "Progresa hacia Beatspell",
+          "description": "Progresa en el juego para desbloquear Beatspell, un modo individual en el que se usan comandos de hechizos basados en el ritmo para luchar contra monstruos."
+        },
+        {
+          "title": "Pasa al multijugador después de la práctica individual",
+          "description": "Una vez que el beat básico se sienta natural, prueba los juegos multijugador local. Hasta cuatro jugadores pueden jugar en una sola consola, y cada jugador necesita un mando compatible."
+        }
+      ],
+      "quickTips": [
+        "Escucha primero el beat, luego mira la pantalla.",
+        "Ejecuta la calibración de la TV cada vez que cambies de pantalla o de mandos.",
+        "Usa la demo para aprender el timing antes de comprar el juego completo.",
+        "Cada jugador necesita un mando compatible para el juego local de cuatro jugadores."
+      ]
+    },
+    "multiplayerModes": {
+      "title": "Modos multijugador de Rhythm Heaven Groove",
+      "intro": "El multijugador está diseñado para una sola consola Nintendo Switch y desafíos de ritmo cortos con amigos. Cada jugador necesita un mando compatible, y es posible que se requieran mandos adicionales para una configuración completa de cuatro jugadores.",
+      "modes": [
+        {
+          "label": "Configuración de jugadores",
+          "value": "1-4 jugadores locales",
+          "description": "Reúne hasta a tres amigos alrededor de una sola consola para el modo multijugador en una sola consola.",
+          "details": [
+            "Un mando compatible por jugador",
+            "Compatible con el modo televisor y el modo sobremesa",
+            "Es posible que se requieran mandos adicionales"
+          ]
+        },
+        {
+          "label": "Número de modos",
+          "value": "Más de 30 juegos multijugador",
+          "description": "El conjunto multijugador incluye tanto juegos de ritmo cooperativos como competitivos.",
+          "details": [
+            "Los juegos cooperativos se centran en el éxito compartido",
+            "Los juegos competitivos recompensan el mejor timing",
+            "Jugable en una sola consola"
+          ]
+        },
+        {
+          "label": "Ejemplos de cooperativo",
+          "value": "Trabajen juntos siguiendo el beat",
+          "description": "Rhythm Tweezers pide a los jugadores que se turnen para depilar una cebolla con pelos, mientras que Tennis Quest convierte el timing del ritmo en un desafío compartido de lucha contra monstruos.",
+          "details": [
+            "Rhythm Tweezers",
+            "Tennis Quest",
+            "Condiciones de victoria en equipo"
+          ]
+        },
+        {
+          "label": "Ejemplos de competitivo",
+          "value": "Gana a tus amigos con la señal",
+          "description": "Cake Wait hace que los jugadores agarren pastel justo cuando el reloj marca las 3, y otros escenarios mostrados incluyen carreras de luchadores, corte de flechas y desafíos de supervivencia de bolas rodantes.",
+          "details": [
+            "Cake Wait",
+            "Escenario de carrera de luchadores",
+            "Desafío de corte de flechas",
+            "Desafío de supervivencia de bolas rodantes"
+          ]
+        }
+      ]
+    },
+    "beatspellMode": {
+      "title": "Rhythm Heaven Groove: modo Beatspell",
+      "intro": "Beatspell se encuentra fuera de la lista estándar de juegos de ritmo y le da a Rhythm Heaven Groove un modo de batalla centrado en la historia. Progresa en el juego principal para desbloquearlo y luego gana medallas en juegos de ritmo en solitario para abrir nuevos capítulos.",
+      "features": [
+        {
+          "label": "Ruta de desbloqueo",
+          "value": "Desbloqueado mediante el progreso en el juego",
+          "description": "Beatspell estará disponible tras progresar en el juego principal, y se desbloquearán nuevos capítulos a medida que se ganen medallas en los juegos de ritmo en solitario.",
+          "tags": [
+            "Progresión",
+            "Medallas",
+            "Juegos en solitario"
+          ]
+        },
+        {
+          "label": "Bucle de batalla",
+          "value": "Lanza hechizos al beat",
+          "description": "Los jugadores pulsan botones al beat correcto para lanzar hechizos basados en el ritmo durante los encuentros con monstruos.",
+          "tags": [
+            "Timing",
+            "Lanzamiento de hechizos",
+            "Batallas contra monstruos"
+          ]
+        },
+        {
+          "label": "Roles de hechizos",
+          "value": "Ataca, cura y más",
+          "description": "Las acciones de hechizo mostradas incluyen lanzar fuego a los enemigos y curarse a uno mismo, con diferentes ritmos utilizados para distintos efectos de hechizo.",
+          "tags": [
+            "Hechizo de fuego",
+            "Curación",
+            "Diferentes ritmos"
+          ]
+        },
+        {
+          "label": "Progresión",
+          "value": "Fortalece habilidades",
+          "description": "Beatspell incluye crecimiento de habilidades y capítulos de historia, lo que ofrece a los jugadores un modo de mayor duración más allá de las superaciones estándar de juegos de ritmo.",
+          "tags": [
+            "Habilidades",
+            "Historia",
+            "Capítulos"
+          ]
+        },
+        {
+          "label": "Diferencia de modo",
+          "value": "Estructura de RPG, entradas de ritmo",
+          "description": "Los juegos de ritmo principales son pruebas de timing cortas e independientes; Beatspell utiliza la habilidad rítmica en batallas, hechizos, enemigos y progresión de capítulos.",
+          "tags": [
+            "Modo RPG",
+            "Modo secundario",
+            "Un solo jugador"
+          ]
+        }
+      ]
+    },
+    "controlsAndAccessibility": {
+      "title": "Controles y accesibilidad de Rhythm Heaven Groove",
+      "intro": "La mayoría de los juegos requieren pulsar botones al beat mientras la música, los sonidos de aviso y los cambios de tempo guían el timing. El juego es compatible con los modos televisor, sobremesa y portátil de Nintendo Switch, con opciones de accesibilidad para lectura de texto y calibración del timing.",
+      "faqs": [
+        {
+          "question": "¿Cómo funcionan los controles básicos en Rhythm Heaven Groove?",
+          "answer": "La regla básica es pulsar los botones al ritmo de la música. Muchos juegos de ritmo utilizan un número reducido de botones y luego cambian el patrón de indicaciones, el tempo o las distracciones visuales para poner a prueba el oído y la precisión."
+        },
+        {
+          "question": "¿Los jugadores de Rhythm Heaven Groove deben mirar la pantalla o escuchar la música?",
+          "answer": "Escuchar es el hábito más seguro. Algunos juegos pueden engañar a la vista, por lo que los jugadores deben seguir el ritmo, las indicaciones de acción de los botones y el tempo en lugar de confiar únicamente en las pistas visuales."
+        },
+        {
+          "question": "¿Para qué sirve la calibración de la televisión en Rhythm Heaven Groove?",
+          "answer": "El juego incluye opciones de calibración para ajustar la precisión de los botones al jugar en la televisión. Realiza la calibración al cambiar de pantalla, cambiar de mando o si notas que las pulsaciones se sienten ligeramente retrasadas o adelantadas."
+        },
+        {
+          "question": "¿Qué ajuste de accesibilidad ofrece Rhythm Heaven Groove para el texto?",
+          "answer": "El texto en pantalla puede ser leído en voz alta por la asistente del juego Li'l Miss Reeds, lo que ayuda a los jugadores que prefieren indicaciones habladas."
+        },
+        {
+          "question": "¿Qué modos de juego admite Rhythm Heaven Groove?",
+          "answer": "Es compatible con el modo televisor, el modo sobremesa y el modo portátil. Nintendo señala que la experiencia de juego en Nintendo Switch Lite puede variar y que el modo multijugador puede requerir mandos adicionales."
+        },
+        {
+          "question": "¿Qué deben comprobar los jugadores de Rhythm Heaven Groove antes de jugar en modo multijugador?",
+          "answer": "Utiliza un mando compatible por jugador. Para el juego local de cuatro jugadores, prepara suficientes mandos antes de comenzar la sesión multijugador."
+        }
+      ]
+    },
+    "trailersAndVideos": {
+      "title": "Tráileres y vídeos de juego de Rhythm Heaven Groove",
+      "intro": "Esta serie de vídeos muestra cómo Rhythm Heaven Groove presenta sus juegos de ritmo, el juego en grupo y los modos secundarios. Comienza con el tráiler de presentación del anuncio original, luego mira el tráiler de presentación general y las imágenes del Treehouse para ver el multijugador, Beatspell y el desarrollo del juego en acción.",
+      "mainVideo": {
+        "videoId": "ZdMwqKiSeEE",
+        "title": "Rhythm Heaven Groove - Tráiler de presentación general - Nintendo Switch"
+      },
+      "videos": [
+        {
+          "title": "Rhythm Heaven Groove - Nintendo Direct 27.3.2025",
+          "type": "Tráiler de presentación",
+          "date": "27 de marzo de 2025",
+          "url": "https://www.youtube.com/watch?v=ZkgjFacpnLE",
+          "watchFor": [
+            "Anuncio de la nueva entrega de Rhythm Heaven",
+            "Ventana de lanzamiento para Nintendo Switch",
+            "Estilo principal de juego de ritmo"
+          ]
+        },
+        {
+          "title": "Rhythm Heaven Groove - Tráiler de presentación general - Nintendo Switch",
+          "type": "Tráiler de presentación general",
+          "date": "9 de junio de 2026",
+          "url": "https://www.youtube.com/watch?v=ZdMwqKiSeEE",
+          "watchFor": [
+            "Más de 80 juegos de ritmo para un jugador",
+            "Más de 30 juegos de ritmo multijugador",
+            "Modo Beatspell",
+            "Funciones de accesibilidad y calibración"
+          ]
+        },
+        {
+          "title": "Rhythm Heaven Groove - Vídeo de juego - Nintendo Treehouse: Live | Junio de 2026",
+          "type": "Demostración de juego",
+          "date": "Junio de 2026",
+          "url": "https://www.youtube.com/watch?v=QeY3WCQ94Hw",
+          "watchFor": [
+            "Secuencia de juego extendida",
+            "Cómo se enseñan las indicaciones de ritmo",
+            "Demostración en vivo del juego basado en la precisión"
+          ]
+        },
+        {
+          "title": "Nintendo Treehouse juega a Beatspell en Rhythm Heaven Groove",
+          "type": "Jugabilidad de Beatspell",
+          "date": "Junio de 2026",
+          "url": "https://www.youtube.com/watch?v=ZXi4zQJZLRA",
+          "watchFor": [
+            "Modo Beatspell desbloqueable",
+            "Lanzamiento de hechizos basado en el ritmo",
+            "Batallas de monstruos"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Rhythm Heaven Groove",
+    "questions": [
+      {
+        "question": "¿Cuándo se lanza Rhythm Heaven Groove y en qué plataformas?",
+        "answer": "Rhythm Heaven Groove se lanza en Nintendo Switch el 2 de julio de 2026, y la tienda de Nintendo en EE. UU. confirma que la compatibilidad con Nintendo Switch 2 está soportada."
+      },
+      {
+        "question": "¿Hay una demo gratuita de Rhythm Heaven Groove?",
+        "answer": "Sí. La Starter Demo gratuita incluye los primeros cinco juegos de ritmo individuales y un desafío de pinzas multijugador, y el progreso de la demo se puede transferir al juego completo."
+      },
+      {
+        "question": "¿Cuántos minijuegos tiene Rhythm Heaven Groove?",
+        "answer": "Rhythm Heaven Groove incluye más de 80 juegos de ritmo para un solo jugador y más de 30 juegos de ritmo multijugador local, además del modo Beatspell desbloqueable."
+      },
+      {
+        "question": "¿Rhythm Heaven Groove es compatible con el modo multijugador?",
+        "answer": "Sí. Rhythm Heaven Groove admite de 1 a 4 jugadores en una sola consola Nintendo Switch para juego cooperativo y competitivo local. El multijugador en línea no es compatible."
+      },
+      {
+        "question": "¿Qué es Beatspell en Rhythm Heaven Groove?",
+        "answer": "Beatspell es un modo RPG de ritmo desbloqueable para un solo jugador en Rhythm Heaven Groove donde el timing de los botones se convierte en lanzamientos de hechizos, curación y batallas de monstruos."
+      },
+      {
+        "question": "¿Cuánto cuesta Rhythm Heaven Groove?",
+        "answer": "Rhythm Heaven Groove tiene un precio habitual de 39,99 $ en la Nintendo Switch eShop, con ediciones digital y física disponibles según la región."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para jugar a Rhythm Heaven Groove?",
+    "description": "Mira el Overview Trailer oficial y consigue Rhythm Heaven Groove en Nintendo Switch; también hay una Starter Demo gratuita disponible.",
+    "joinCommunity": "Ver el Overview Trailer",
+    "joinGame": "Jugar en Nintendo Switch"
+  },
+  "footer": {
+    "title": "Wiki de Rhythm Heaven Groove",
+    "description": "Tu centro de recursos completo para información de lanzamiento, demo, más de 80 minijuegos, Beatspell, modos multijugador, controles y consejos de timing de Rhythm Heaven Groove.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "reddit": "Comunidad de Reddit",
+    "youtube": "Tráiler oficial",
+    "nintendoStore": "Nintendo Store",
+    "officialSite": "Sitio oficial",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Rhythm Heaven Groove Wiki. No afiliada con Nintendo.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "release": {
+      "title": "Fecha de lanzamiento e información de lanzamiento de Rhythm Heaven Groove",
+      "description": "La fecha de lanzamiento oficial, los horarios de lanzamiento regionales y la cuenta regresiva para Rhythm Heaven Groove en Nintendo Switch.",
+      "metaTitle": "Fecha de lanzamiento de Rhythm Heaven Groove - Día de lanzamiento y cuenta regresiva",
+      "metaDescription": "Rhythm Heaven Groove se lanza en Nintendo Switch el 2 de julio de 2026. Sigue aquí la fecha de lanzamiento oficial, el horario de lanzamiento y la cuenta regresiva.",
+      "categoryLabel": "FECHA DE LANZAMIENTO",
+      "whatIs": "¿Cuál es la fecha de lanzamiento de Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de lanzamiento cubre la fecha de estreno oficial, los horarios de lanzamiento regionales y la cuenta regresiva para Rhythm Heaven Groove en Nintendo Switch y Nintendo Switch 2.",
+      "why": "¿Por qué seguir la fecha de lanzamiento?",
+      "whySteps": {
+        "step1Title": "Fecha de lanzamiento confirmada",
+        "step1Description": "Nintendo indica el 2 de julio de 2026 como la fecha de lanzamiento oficial de Rhythm Heaven Groove.",
+        "step2Title": "Horarios de lanzamiento regionales",
+        "step2Description": "Consulta los horarios de lanzamiento en las tiendas regionales de Nintendo eShop.",
+        "step3Title": "Cuenta regresiva para el lanzamiento",
+        "step3Description": "Planifica tu descarga y tu primera sesión de juego con la cuenta regresiva de lanzamiento."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos sobre la fecha de lanzamiento"
+    },
+    "platforms": {
+      "title": "Plataformas de Rhythm Heaven Groove y compatibilidad con Switch 2",
+      "description": "Todas las plataformas en las que funciona Rhythm Heaven Groove, incluyendo Switch, Switch 2, ediciones, Switch Lite y disponibilidad en PC.",
+      "metaTitle": "Plataformas de Rhythm Heaven Groove - Switch, Switch 2 y PC",
+      "metaDescription": "Rhythm Heaven Groove está en Nintendo Switch con compatibilidad confirmada para Switch 2. Compara ediciones, soporte para Switch Lite y disponibilidad en PC.",
+      "categoryLabel": "PLATAFORMAS",
+      "whatIs": "¿En qué plataformas está Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de plataformas cubre todas las consolas en las que funciona Rhythm Heaven Groove, incluyendo Nintendo Switch, compatibilidad con Nintendo Switch 2, ediciones, Switch Lite y disponibilidad en PC.",
+      "why": "¿Por qué consultar la lista de plataformas?",
+      "whySteps": {
+        "step1Title": "Nintendo Switch y Switch 2",
+        "step1Description": "Juega en Nintendo Switch con compatibilidad confirmada para Nintendo Switch 2.",
+        "step2Title": "Ediciones y formato físico",
+        "step2Description": "Compara las ediciones digitales, físicas y de Nintendo Switch 2.",
+        "step3Title": "Switch Lite y PC",
+        "step3Description": "Consulta la experiencia de juego en Nintendo Switch Lite y si existe una versión para PC."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos sobre plataformas"
+    },
+    "demo": {
+      "title": "Demo de Rhythm Heaven Groove y guía de la Starter Demo",
+      "description": "Descarga la Starter Demo gratuita, explora su contenido, transfiere tu progreso y mira el gameplay completo de la demo.",
+      "metaTitle": "Demo de Rhythm Heaven Groove - Descarga gratuita de la Starter Demo",
+      "metaDescription": "Consigue la Starter Demo gratuita de Rhythm Heaven Groove en la Nintendo eShop. Contenido, transferencia de progreso y gameplay de la demo en el interior.",
+      "categoryLabel": "DEMO GRATUITA",
+      "whatIs": "¿Qué es la demo de Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de la demo cubre la Starter Demo gratuita, los juegos individuales y multijugador incluidos, la transferencia de progreso al juego completo y el gameplay completo de la demo.",
+      "why": "¿Por qué probar la demo?",
+      "whySteps": {
+        "step1Title": "Prueba antes de comprar",
+        "step1Description": "Juega los primeros cinco juegos de ritmo individuales gratis.",
+        "step2Title": "Prueba el multijugador",
+        "step2Description": "Prueba el desafío de las pinzas multijugador con amigos.",
+        "step3Title": "Mantén tu progreso",
+        "step3Description": "Transfiere tu progreso de la demo al juego completo."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la demo"
+    },
+    "purchase": {
+      "title": "Compra, precio y preventa de Rhythm Heaven Groove",
+      "description": "Precio, bonificación de preventa, copia física y dónde comprar Rhythm Heaven Groove en Amazon, GameStop, Target, Best Buy y Nintendo eShop.",
+      "metaTitle": "Precio y preventa de Rhythm Heaven Groove - Dónde comprar",
+      "metaDescription": "Compra Rhythm Heaven Groove por $39.99. Compara precios, bonificación de preventa, copia física y tiendas como Amazon, GameStop, Target y Best Buy.",
+      "categoryLabel": "COMPRA Y PRECIO",
+      "whatIs": "¿Dónde comprar Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de compra cubre el precio, la preventa y bonificación de preventa, copias físicas y digitales, y todas las tiendas que venden Rhythm Heaven Groove.",
+      "why": "¿Por qué consultar la guía de compra?",
+      "whySteps": {
+        "step1Title": "Precio confirmado",
+        "step1Description": "Rhythm Heaven Groove tiene un precio regular de $39.99 en Nintendo eShop.",
+        "step2Title": "Bonificación de preventa",
+        "step2Description": "Compara la bonificación de preventa y los extras de la edición.",
+        "step3Title": "Lista de tiendas",
+        "step3Description": "Encuentra copias físicas y digitales en Amazon, GameStop, Target, Best Buy y Nintendo eShop."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de compra"
+    },
+    "review": {
+      "title": "Reseñas y puntuación de Metacritic de Rhythm Heaven Groove",
+      "description": "Reseñas de la crítica, puntuación de Metacritic, rendimiento en Switch y Switch 2, veredictos sobre si vale la pena y comparaciones de Rhythm Heaven Groove.",
+      "metaTitle": "Reseña de Rhythm Heaven Groove - Metacritic y ¿Vale la pena?",
+      "metaDescription": "Lee las reseñas de Rhythm Heaven Groove, la puntuación de Metacritic, el rendimiento en Switch y Switch 2, y comparativas de si vale la pena antes de comprar.",
+      "categoryLabel": "RESEÑAS",
+      "whatIs": "¿Vale la pena Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de reseñas cubre las opiniones de la crítica, la puntuación de Metacritic, el rendimiento en Nintendo Switch y Switch 2, veredictos sobre si vale la pena y comparaciones entre plataformas.",
+      "why": "¿Por qué leer las reseñas?",
+      "whySteps": {
+        "step1Title": "Puntuaciones de la crítica",
+        "step1Description": "Sigue la puntuación de Metacritic y el consenso de la crítica.",
+        "step2Title": "Switch vs. Switch 2",
+        "step2Description": "Compara el rendimiento en Nintendo Switch y Switch 2.",
+        "step3Title": "Veredicto: ¿Vale la pena?",
+        "step3Description": "Decide si vale la pena comprar Rhythm Heaven Groove."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de reseñas"
+    },
+    "guide": {
+      "title": "Guías y recorrido de Rhythm Heaven Groove",
+      "description": "Guías completas, guía para principiantes, lista de minijuegos, recuento total de juegos y el sistema de clasificación para Rhythm Heaven Groove.",
+      "metaTitle": "Guías de Rhythm Heaven Groove - Guía paso a paso y minijuegos",
+      "metaDescription": "Domina Rhythm Heaven Groove con guías para principiantes, la guía completa, la lista de minijuegos, el recuento total de juegos y la explicación del sistema de clasificación.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué son las guías de Rhythm Heaven Groove?",
+      "whatIsDescription": "La sección de guías incluye guías para principiantes, la lista de minijuegos, el recuento total de juegos, el sistema de clasificación y estrategias de timing para Rhythm Heaven Groove.",
+      "why": "¿Por qué leer las guías?",
+      "whySteps": {
+        "step1Title": "Guía para principiantes",
+        "step1Description": "Aprende sobre el timing, las pistas de audio y el orden de práctica inicial.",
+        "step2Title": "Lista de minijuegos",
+        "step2Description": "Explora los más de 80 juegos de ritmo en solitario y los más de 30 multijugador.",
+        "step3Title": "Sistema de clasificación",
+        "step3Description": "Entiende los rangos, las medallas y cómo funciona la puntuación."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías"
+    }
   }
 }
