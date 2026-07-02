@@ -1,12 +1,14 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Rhythm Heaven Groove - Minigames, Beatspell & Demo",
+  "short_name": "Rhythm Heaven Groove",
+  "description": "Rhythm Heaven Groove tracks release date, demo, minigames, Beatspell, multiplayer modes, controls, tips, trailers, and Nintendo Switch updates.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#F97316",
+  "background_color": "#FFF7D6",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
