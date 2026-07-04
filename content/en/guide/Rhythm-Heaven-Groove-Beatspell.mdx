@@ -1,0 +1,159 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Rhythm Heaven Groove Beatspell: Complete RPG Mode Walkthrough",
+  description: "Master the unlockable Beatspell RPG mode in Rhythm Heaven Groove. Learn spell cadences, level-up choices, and critical hit timings to defeat the Four Fears.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=Beatspell+RPG+Guide",
+  date: "2026-07-04",
+  author: "rhythm heaven groove Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Rhythm Heaven Groove Beatspell** is an unlockable, rhythm-based RPG mode separate from the main campaign.
+- **Unlock Requirement**: Earn Medals by achieving "Amazing" ranks in the main game.
+- **Combat Core**: Cast offensive and defensive spells by pressing buttons in strict rhythm to defeat bosses.
+- **Perfect Timing**: Landing inputs exactly on the beat triggers critical hits with massive damage multipliers.
+- **Key Strategy**: Use the Cure spell to heal and re-align your internal metronome when overwhelmed.
+</Callout>
+
+<Section icon={Map} title="Rhythm Heaven Groove Beatspell Mode Overview">
+
+The highly anticipated **Rhythm Heaven Groove Beatspell** mode is a unique RPG spin-off tucked inside the main rhythm game. Unlike traditional stages that follow strict call-and-response prompts, Beatspell gives players the freedom to decide when, where, and how to cast their magic. You must track the underlying four-beat measure and execute specific button sequences to defeat monsters and progress through dungeon chapters.
+
+**Video Highlights:**
+- **Unlock Mechanic**: Learn how to access Beatspell chapters using campaign Medals.
+- **Combat Basics**: See the difference between standard rhythm play and free-form spellcasting.
+- **Spell Cadences**: Watch the visual and audio differences between Flame and Cure spells.
+- **Boss Showdown**: Check out the battle against Hex and V of the Four Fears.
+
+<YouTubeEmbed videoId="ZXi4zQJZLRA" title="Nintendo Treehouse Plays Beatspell in Rhythm Heaven Groove – Nintendo Switch" />
+
+To succeed in this mode, you must understand the basic structure of a dungeon run. Each chapter resets your items and spells, challenging you to build a new loadout from scratch.
+
+| Phase | Description | Key Objective |
+|---|---|---|
+| **Tutorial** | Introduces the chapter's core spells and mechanics | Learn the button cadence |
+| **Dungeon Map** | Node-based movement containing monsters and bosses | Defeat enemies with minimal health loss |
+| **Level Up** | Mid-chapter screen to boost spell stats | Choose between offense or defense |
+| **Boss Battle** | Confront one of the legendary Four Fears | Lock into complex rhythms |
+
+<Callout type="success" title="Unlock Condition">
+To play Beatspell, you must first complete Remix 1 in Stage 1 of the main campaign with at least a "Good" rating to open the "Other" category. From there, collect campaign Medals to unlock individual chapters.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Spell Cadence and Button Inputs">
+
+In **Rhythm Heaven Groove Beatspell**, your spellbook relies on muscle memory rather than visual prompts. Each spell has a distinct rhythm pattern that must fit within a four-beat measure. 
+
+Below is a comparison of the primary spells available in the early chapters:
+
+<CardGrid cols={3}>
+  <Card title="Flame Spell">
+    - **Inputs**: B then A
+    - **Timing**: Quarter note space (e.g., Beat 1 and Beat 2)
+    - **Role**: Primary offensive damage dealer
+  </Card>
+  <Card title="Cure Spell">
+    - **Inputs**: B, Down, A
+    - **Timing**: Eighth note cadence (syncopated rhythm)
+    - **Role**: Restores health and stabilizes rhythm
+  </Card>
+  <Card title="Water Spell">
+    - **Inputs**: Advanced combinations
+    - **Timing**: Complex measure placement
+    - **Role**: Elemental weakness exploit
+  </Card>
+</CardGrid>
+
+To maximize your efficiency, use this comprehensive spell guide to practice your timing:
+
+| Spell Name | Button Sequence | Rhythmic Cadence | Base Effect | Optimal Use Case |
+|---|---|---|---|---|
+| **Flame** | B ➔ A | Quarter Note (1, 2 or 3, 4) | Fire Damage | Standard damage output |
+| **Cure** | B ➔ Down ➔ A | Eighth Note (1 & 2) | HP Recovery | Low health recovery |
+| **Water** | Advanced | Shifting BPM | Water Damage | Exploit elemental weaknesses |
+
+<Callout type="warning" title="Left-Handed Accessibility">
+You can use the D-Pad and Face Buttons interchangeably. B and Down function identically, as do A and the Right Arrow. Experiment to find the physical layout that suits your playstyle.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Dungeon Progression: Step-by-Step">
+
+Navigating a Beatspell chapter requires balancing aggressive spellcasting with careful health management. Follow this step-by-step progression guide to clear chapters with a perfect ranking.
+
+<Steps>
+  <Step num="1" title="Complete the Chapter Tutorial">
+    Every chapter begins with a brief tutorial introducing new spells. Do not skip this unless you are highly confident in the spell's syncopation and button layout.
+  </Step>
+  <Step num="2" title="Defeat the Minions">
+    Clear the early map nodes by fighting standard monsters. Focus on landing critical hits (indicated by a sunburst visual) to defeat them quickly and preserve your health bar.
+  </Step>
+  <Step num="3" title="Allocate Level-Up Points">
+    Choose whether to upgrade your offensive power (e.g., Max Flame Damage) or defensive capabilities (e.g., Cure Efficiency). 
+  </Step>
+  <Step num="4" title="Conquer the Boss">
+    Engage the area boss (such as Hex or V). Watch their blocking patterns and counter with critical hits to pierce their defense.
+  </Step>
+</Steps>
+
+<Callout type="tip" title="Panic Mode Helper">
+If your health drops to zero, the screen will flash red. The flashing visual is synchronized exactly to the rhythm of the Cure spell. Use this visual aid to lock back into the beat and heal yourself.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Five-Star Completion Checklist">
+
+At the end of each Beatspell chapter, you are graded on a scale of one to five stars. Achieving a perfect score requires precision, speed, and clean execution. Use this checklist to track your performance criteria.
+
+<Checklist
+  id="beatspell-five-star"
+  title="Five-Star Performance Requirements:"
+  items={[
+    "Finish the chapter within the target time limit [1.1.2]",
+    "Maintain a high percentage of Critical Hits (Sunburst triggers)",
+    "Defeat the boss without losing any of your three main Hearts",
+    "Minimize off-beat button inputs to avoid failing spells"
+  ]}
+/>
+
+<Callout type="info" title="No Spam Penalty">
+Unlike standard rhythm games, there is no penalty for casting spells repeatedly in Beatspell. If you lose the beat, spam the Cure spell to recover health while finding the downbeat of the track.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Rhythm Heaven Groove Beatspell FAQ">
+
+<FAQ items={[
+  {
+    question: "How do I unlock new chapters in Rhythm Heaven Groove Beatspell?",
+    answer: "New chapters are unlocked using Medals earned in the main campaign. You receive a Medal the first time you achieve an 'Amazing' rank on any standard rhythm stage."
+  },
+  {
+    question: "What happens if I lose all my health in Beatspell?",
+    answer: "Your health bar is backed by three Hearts. If your health bar drops to zero, you lose one Heart. Losing all three Hearts will force you to restart the entire chapter."
+  },
+  {
+    question: "Do my spells and levels carry over between chapters?",
+    answer: "No. All spells, levels, and items are reset at the beginning of each chapter to ensure a balanced, puzzle-like challenge for every segment."
+  },
+  {
+    question: "How do I trigger a critical hit in combat?",
+    answer: "You must press the casting buttons exactly on the beat. A successful critical hit is indicated by a bright sunburst graphic behind the target circle and a unique hit sound effect."
+  }
+]} />
+
+</Section>
