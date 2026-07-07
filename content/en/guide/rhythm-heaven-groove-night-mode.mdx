@@ -1,0 +1,160 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Rhythm Heaven Groove Night Mode: Unlock Guide & Pro Tips",
+  description: "Master the challenging Rhythm Heaven Groove Night Mode. Learn unlocking requirements, timing adjustments, and level-specific strategies.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=Groove+Night+Mode+Guide",
+  date: "2026-07-07",
+  author: "rhythm heaven groove Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Unlock Rhythm Heaven Groove Night Mode** by clearing all 80 single-player games and completing the Beatspell campaign.
+- **Expect faster tempos** and visual disruptions that force players to rely heavily on audio cues.
+- **Calibrate your system** to account for the tighter timing windows present in this high-difficulty mode.
+- **Earn Superb ratings** on night variants to unlock exclusive soundtrack remixes and bonus shop items.
+</Callout>
+
+<Section icon={Sparkles} title="Understanding the Night Mode Mechanics">
+
+The release of the game on July 2, 2026, introduced players to a fresh set of rhythmic challenges. Among the most demanding additions is the high-difficulty alternate campaign. This mode alters the visual presentation of the standard stages, shifting them to neon-drenched, nighttime settings. However, the changes are not merely cosmetic. 
+
+In this mode, the tempo of each mini-game is increased, and the visual cues are frequently obscured by shadows, flashing neon lights, or weather effects like rain and fog. This design choice forces players to rely almost entirely on their auditory memory and rhythmic synchronization. The timing window for securing a Perfect or Superb rating is significantly reduced, requiring precise button presses.
+
+| Feature | Day Mode | Night Mode |
+| :--- | :--- | :--- |
+| **Visual Cues** | Clear, bright, and easy to follow | Obscured by shadows, neon flashes, and weather |
+| **Tempo Multiplier** | 1.0x standard speed | 1.15x to 1.35x speed depending on the stage |
+| **Timing Window** | Generous (approx. 50ms for Superb) | Tight (approx. 25ms for Superb) |
+| **Audio Tracks** | Original instrumentation | Faster tempos, synthetic beats, and off-beat syncopation |
+| **Failure Tolerance** | Allows up to 3 major misses | Often triggers an instant fail or strict rating drop |
+
+<Callout type="tip" title="Audio Dependency">
+Do not rely on your eyes during these stages. The visual distractions are intentionally placed to throw off your timing. Close your eyes if necessary and focus entirely on the drum patterns and off-beat synth cues.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="How to Unlock Night Mode">
+
+Accessing these high-speed rhythmic challenges requires progression through the main campaign. You cannot access these stages from the start of the game. Follow this progression path to unlock the mode.
+
+<Steps>
+  <Step num="1" title="Clear the Main Campaign">
+    Complete all 80 single-player games in the standard mode. You must earn at least an OK rating on every stage, from Hoop Trundling to the final Remix stage, to proceed.
+  </Step>
+  <Step num="2" title="Defeat the Beatspell Monsters">
+    Progress through the single-player Beatspell mode. Use rhythm-based spells to defeat the bosses. Clearing this mode is mandatory to trigger the post-game shop unlock.
+  </Step>
+  <Step num="3" title="Amass Flow Balls">
+    Earn at least 15 Flow Balls by completing Perfect Campaigns when they randomly appear on the world map.
+  </Step>
+  <Step num="4" title="Purchase the Night Ticket">
+    Visit the in-game shop and purchase the Night Ticket item using your accumulated Flow Balls. This permanently unlocks the alternate gate on the main menu.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Beatspell Requirement">
+Beatspell mode requires precise timing to cast offensive and defensive magic. Ensure you practice healing spells, as boss fights in the later stages can quickly deplete your health bar if you miss consecutive beats.
+</Callout>
+
+<Checklist
+  id="unlock-checklist"
+  title="Unlock Requirements Checklist:"
+  items={[
+    "Earn at least an OK rating on all 80 single-player games",
+    "Defeat the final boss in the Beatspell campaign",
+    "Collect a minimum of 15 Flow Balls from Perfect Challenges",
+    "Purchase the Night Ticket from the shop for 15 Flow Balls"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Map} title="Level Variations and Level-Specific Strategies">
+
+Several classic levels receive dramatic overhauls in this mode. The table below highlights the specific changes made to the most popular mini-games and how you should adjust your playstyle.
+
+| Game Name | Night Mode Gimmick | Key Audio Cue | Difficulty Rating |
+| :--- | :--- | :--- | :--- |
+| **Hoop Trundling** | Neon hoops, pitch-black background | Listen for the double-clap after "pa pi pu pe po" | ★★★★☆ |
+| **Fruit Flex** | Falling fruit is shadowed; rapid pacing | Heavy bass drop signifies a double-flex requirement | ★★★☆☆ |
+| **Hop Stop N Roll** | Roly-poly cat doll moves on off-beats | High-pitched whistle indicates a quick triple-roll | ★★★★★ |
+| **Rhythm Tweezers** | Hairy onions pluck at double speed | Pluck on the snare hit; watch for sudden tempo pauses | ★★★★☆ |
+| **Cake Wait** | Clock strikes at irregular intervals | The chime sounds half a beat earlier than visual movement | ★★★☆☆ |
+
+<CardGrid cols={3}>
+  <Card title="Hoop Trundling Strategy">
+    Focus on the vocal cue. The standard "pa pi pu pe po" remains, but the jump window occurs immediately after the final syllable. Tap the button exactly on the silent beat following the vocal sequence.
+  </Card>
+  <Card title="Hop Stop N Roll Strategy">
+    This stage features a syncopated rhythm. The cat doll will roll twice, pause, and then roll three times rapidly. Memorize the "bumble-rumble" sequence and tap in a triplet pattern.
+  </Card>
+  <Card title="Rhythm Tweezers Strategy">
+    Keep your fingers resting lightly on the buttons. The hair growth pattern is faster, meaning you must release the button instantly to avoid tearing the onion skin and failing the stage.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Multiplayer Practice">
+If you struggle with the speed of these stages, try practicing them in local multiplayer. Working with a partner in cooperative mode can help you internalize the tempo before attempting solo high-score runs.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Advanced Timing and System Calibration">
+
+Because the timing windows are incredibly narrow, system latency can ruin your run. Playing on a modern display or using wireless audio accessories can introduce milliseconds of delay that make hitting a Perfect rating impossible.
+
+| Platform Mode | Recommended Audio Lag Setting | Best Controller Setup | Connection Type |
+| :--- | :--- | :--- | :--- |
+| **TV Mode** | -4 to -6 frames | Wired Controller | HDMI Direct (No Receiver) |
+| **Tabletop Mode** | 0 frames | Attached Joy-Cons | Direct Connection |
+| **Handheld Mode** | 0 frames | Attached Joy-Cons | Direct Connection |
+| **Wireless Audio** | -8 to -12 frames | Wired Controller | Bluetooth (Not Recommended) |
+
+| Rating | Timing Window (ms) | Score Multiplier | Visual Indicator |
+| :--- | :--- | :--- | :--- |
+| **Perfect** | Under 15ms | 3.0x | Golden flash |
+| **Superb** | 16ms - 30ms | 2.0x | Bright star burst |
+| **OK** | 31ms - 60ms | 1.0x | Simple sparkle |
+| **Miss** | Over 60ms | 0.0x | Red cross |
+
+<Callout type="info" title="Calibration Check">
+Always use the built-in calibration tool in the options menu before starting a session. Tap along to the metronome ten times to allow the game to calculate your average input delay and adjust the audio sync automatically.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Night Mode FAQ">
+
+<FAQ items={[
+  {
+    question: "Does rhythm heaven groove night mode offer exclusive rewards?",
+    answer: "Yes. Earning a Superb rating on these stages unlocks character badges, alternate menu music tracks, and concept art in the game gallery."
+  },
+  {
+    question: "Can I play multiplayer games in this high-difficulty mode?",
+    answer: "Yes, once unlocked, you can access alternate versions of the 30 multiplayer games, including Tennis Quest and Cake Wait, with the increased difficulty settings."
+  },
+  {
+    question: "What is the best way to handle the visual distractions?",
+    answer: "We recommend turning down the screen brightness or using the audio-only mode in the settings, which replaces the gameplay visuals with a simple beat indicator."
+  },
+  {
+    question: "Does failing a level in this mode reset my Perfect Campaign progress?",
+    answer: "Yes. Just like the standard campaign, registering a Miss during a Perfect run will immediately end the challenge, requiring you to restart the stage."
+  }
+]} />
+
+<Callout type="warning" title="Save Data Cloud">
+Ensure you have an active Nintendo Switch Online membership to back up your save data. Losing progress on these stages can be extremely frustrating due to the high difficulty curve.
+</Callout>
+
+</Section>

@@ -1,0 +1,161 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Modo Noche de Rhythm Paradise Groove: Guía de Desbloqueo y Consejos Pro",
+  description: "Domina el desafiante Modo Noche de Rhythm Paradise Groove. Aprende los requisitos de desbloqueo, ajustes de sincronización y estrategias específicas por nivel.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=Groove+Night+Mode+Guide",
+  date: "2026-07-07",
+  author: "Equipo de la Wiki de Rhythm Paradise Groove",
+  keywords: "rhythm paradise groove, modo noche, guía, desbloqueo, consejos, beatspell"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Desbloquea el Modo Noche de Rhythm Paradise Groove** completando los 80 juegos individuales y terminando la campaña de Beatspell.
+- **Prepárate para ritmos más rápidos** y distracciones visuales que obligan a los jugadores a confiar plenamente en las pistas de audio.
+- **Calibra tu sistema** para tener en cuenta las ventanas de tiempo más ajustadas en este modo de alta dificultad.
+- **Obtén calificaciones de 'Genial'** en las variantes nocturnas para desbloquear remezclas exclusivas de la banda sonora y artículos especiales en la tienda.
+</Callout>
+
+<Section icon={Sparkles} title="Comprendiendo las Mecánicas del Modo Noche">
+
+El lanzamiento del juego el 2 de julio de 2026 introdujo a los jugadores a un nuevo conjunto de desafíos rítmicos. Entre las adiciones más exigentes se encuentra la campaña alternativa de alta dificultad. Este modo altera la presentación visual de los niveles estándar, trasladándolos a entornos nocturnos bañados por luces de neón. Sin embargo, los cambios no son meramente cosméticos.
+
+En este modo, el tempo de cada minijuego aumenta y las pistas visuales suelen estar oscurecidas por sombras, luces de neón parpadeantes o efectos climáticos como lluvia y niebla. Esta elección de diseño obliga a los jugadores a confiar casi por completo en su memoria auditiva y sincronización rítmica. La ventana de tiempo para asegurar una calificación de 'Perfecto' o 'Genial' se reduce significativamente, requiriendo pulsaciones de botones extremadamente precisas.
+
+| Característica | Modo Día | Modo Noche |
+| :--- | :--- | :--- |
+| **Pistas Visuales** | Claras, brillantes y fáciles de seguir | Obscurecidas por sombras, destellos de neón y clima |
+| **Multiplicador de Tempo** | 1.0x velocidad estándar | 1.15x a 1.35x de velocidad dependiendo del nivel |
+| **Ventana de Tiempo** | Generosa (aprox. 50ms para Genial) | Ajustada (aprox. 25ms para Genial) |
+| **Pistas de Audio** | Instrumentación original | Tempos más rápidos, ritmos sintéticos y síncopas fuera de tiempo |
+| **Tolerancia a Fallos** | Permite hasta 3 fallos mayores | A menudo provoca un fallo instantáneo o una caída estricta de calificación |
+
+<Callout type="tip" title="Dependencia del Audio">
+No confíes en tus ojos durante estos niveles. Las distracciones visuales están colocadas intencionadamente para descolocar tu ritmo. Cierra los ojos si es necesario y concéntrate por completo en los patrones de batería y las pistas de sintetizador fuera de tiempo.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Cómo Desbloquear el Modo Noche">
+
+Acceder a estos desafíos rítmicos de alta velocidad requiere progresar en la campaña principal. No puedes acceder a estos niveles desde el inicio del juego. Sigue esta ruta de progresión para desbloquear el modo.
+
+<Steps>
+  <Step num="1" title="Completa la Campaña Principal">
+    Termina los 80 juegos individuales en el modo estándar. Debes obtener al menos una calificación de 'Pasable' en cada nivel, desde Rodado de Aro hasta el nivel final de Remix, para poder continuar.
+  </Step>
+  <Step num="2" title="Derrota a los Monstruos de Beatspell">
+    Progresa a través del modo Beatspell para un jugador. Usa hechizos basados en el ritmo para derrotar a los jefes. Completar este modo es obligatorio para activar el desbloqueo de la tienda tras el juego.
+  </Step>
+  <Step num="3" title="Acumula Flow Balls">
+    Obtén al menos 15 Flow Balls completando Campañas Perfectas cuando aparezcan aleatoriamente en el mapa del mundo.
+  </Step>
+  <Step num="4" title="Compra el Ticket Nocturno">
+    Visita la tienda del juego y compra el objeto Ticket Nocturno usando tus Flow Balls acumuladas. Esto desbloquea permanentemente la puerta alternativa en el menú principal.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Requisito de Beatspell">
+El modo Beatspell requiere una sincronización precisa para lanzar magia ofensiva y defensiva. Asegúrate de practicar los hechizos de curación, ya que las batallas contra los jefes en las etapas finales pueden agotar rápidamente tu barra de salud si pierdes pulsos consecutivos.
+</Callout>
+
+<Checklist
+  id="unlock-checklist"
+  title="Lista de Verificación de Requisitos de Desbloqueo:"
+  items={[
+    "Obtén al menos una calificación de 'Pasable' en los 80 juegos individuales",
+    "Derrota al jefe final en la campaña de Beatspell",
+    "Colecciona un mínimo de 15 Flow Balls de los Desafíos Perfectos",
+    "Compra el Ticket Nocturno en la tienda por 15 Flow Balls"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Map} title="Variaciones de Nivel y Estrategias Específicas">
+
+Varios niveles clásicos reciben cambios drásticos en este modo. La siguiente tabla destaca los cambios específicos realizados en los minijuegos más populares y cómo deberías ajustar tu estilo de juego.
+
+| Nombre del Juego | Mecánica del Modo Noche | Pista de Audio Clave | Clasificación de Dificultad |
+| :--- | :--- | :--- | :--- |
+| **Rodado de Aro** | Aros de neón, fondo negro absoluto | Escucha el doble aplauso después de "pa pi pu pe po" | ★★★★☆ |
+| **Flexión de Fruta** | La fruta que cae está en sombras; ritmo rápido | Un golpe de bajo pesado indica un requisito de doble flexión | ★★★☆☆ |
+| **Salto, Alto y Rodado** | El gato tentetieso se mueve en tiempos débiles | Un silbido agudo indica un rodado triple rápido | ★★★★★ |
+| **Pinzas de Ritmo** | Cebollas peludas se depilan a doble velocidad | Depila en el golpe de caja; atento a pausas repentinas de tempo | ★★★★☆ |
+| **Espera del Pastel** | El reloj suena a intervalos irregulares | El timbre suena medio tiempo antes que el movimiento visual | ★★★☆☆ |
+
+<CardGrid cols={3}>
+  <Card title="Estrategia para Rodado de Aro">
+    Concéntrate en la pista vocal. El estándar "pa pi pu pe po" se mantiene, pero la ventana de salto ocurre inmediatamente después de la última sílaba. Pulsa el botón exactamente en el pulso silencioso que sigue a la secuencia vocal.
+  </Card>
+  <Card title="Estrategia para Salto, Alto y Rodado">
+    Este nivel presenta un ritmo sincopado. El gato rodará dos veces, hará una pausa y luego rodará tres veces rápidamente. Memoriza la secuencia "bumble-rumble" y pulsa en un patrón de tresillo.
+  </Card>
+  <Card title="Estrategia para Pinzas de Ritmo">
+    Mantén tus dedos apoyados ligeramente sobre los botones. El patrón de crecimiento del pelo es más rápido, lo que significa que debes soltar el botón instantáneamente para evitar romper la piel de la cebolla y fallar el nivel.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Práctica Multijugador">
+Si tienes dificultades con la velocidad de estos niveles, intenta practicarlos en el modo multijugador local. Trabajar con un compañero en modo cooperativo puede ayudarte a interiorizar el tempo antes de intentar carreras de puntuación alta en solitario.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Sincronización Avanzada y Calibración del Sistema">
+
+Debido a que las ventanas de tiempo son increíblemente estrechas, la latencia del sistema puede arruinar tu partida. Jugar en una pantalla moderna o usar accesorios de audio inalámbricos puede introducir milisegundos de retraso que hacen imposible obtener una calificación de 'Perfecto'.
+
+| Modo de Plataforma | Ajuste de Retraso Recomendado | Configuración de Control | Tipo de Conexión |
+| :--- | :--- | :--- | :--- |
+| **Modo TV** | -4 a -6 cuadros | Mando con cable | HDMI Directo (Sin receptor) |
+| **Modo Sobremesa** | 0 cuadros | Joy-Cons acoplados | Conexión directa |
+| **Modo Portátil** | 0 cuadros | Joy-Cons acoplados | Conexión directa |
+| **Audio Inalámbrico** | -8 a -12 cuadros | Mando con cable | Bluetooth (No recomendado) |
+
+| Calificación | Ventana de Tiempo (ms) | Multiplicador de Puntuación | Indicador Visual |
+| :--- | :--- | :--- | :--- |
+| **Perfecto** | Menos de 15ms | 3.0x | Destello dorado |
+| **Genial** | 16ms - 30ms | 2.0x | Explosión de estrella brillante |
+| **Pasable** | 31ms - 60ms | 1.0x | Destello simple |
+| **Fallo** | Más de 60ms | 0.0x | Cruz roja |
+
+<Callout type="info" title="Verificación de Calibración">
+Usa siempre la herramienta de calibración integrada en el menú de opciones antes de comenzar una sesión. Pulsa siguiendo el metrónomo diez veces para permitir que el juego calcule tu retraso de entrada promedio y ajuste la sincronización de audio automáticamente.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Preguntas Frecuentes del Modo Noche">
+
+<FAQ items={[
+  {
+    question: "¿Ofrece el modo noche de Rhythm Paradise Groove recompensas exclusivas?",
+    answer: "Sí. Obtener una calificación de 'Genial' en estos niveles desbloquea insignias de personajes, pistas de música alternativas para el menú y arte conceptual en la galería del juego."
+  },
+  {
+    question: "¿Puedo jugar niveles multijugador en este modo de alta dificultad?",
+    answer: "Sí, una vez desbloqueado, puedes acceder a versiones alternativas de los 30 juegos multijugador, incluidos Tennis Quest y Espera del Pastel, con los ajustes de dificultad aumentada."
+  },
+  {
+    question: "¿Cuál es la mejor manera de manejar las distracciones visuales?",
+    answer: "Recomendamos bajar el brillo de la pantalla o usar el modo de solo audio en los ajustes, que reemplaza los visuales del juego con un simple indicador de pulso."
+  },
+  {
+    question: "¿Fallar un nivel en este modo reinicia mi progreso de la Campaña Perfecta?",
+    answer: "Sí. Al igual que en la campaña estándar, registrar un fallo durante un intento de Perfecto terminará inmediatamente el desafío, requiriendo que reinicies el nivel."
+  }
+]} />
+
+<Callout type="warning" title="Nube de Datos de Guardado">
+Asegúrate de tener una suscripción activa de Nintendo Switch Online para respaldar tus datos de guardado. Perder el progreso en estos niveles puede ser extremadamente frustrante debido a la alta curva de dificultad.
+</Callout>
+
+</Section>
